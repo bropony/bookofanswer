@@ -195,7 +195,7 @@ function Home() {
           >
             {hint.zh}
             <br />
-            <span className="text-sm opacity-60">{hint.en}</span>
+            <span className="text-base opacity-90">{hint.en}</span>
           </p>
         </div>
       )}
