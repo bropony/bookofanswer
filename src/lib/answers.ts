@@ -4,7 +4,7 @@ export const CATEGORY_COLORS: Record<AnswerCategory, string> = {
   buddhist: "#d4a849",
   confucian: "#8b4513",
   taoist: "#2e8b57",
-  metaphysical: "#6a0dad",
+  metaphysical: "#b06cf7",
 };
 
 export const HINTS: Record<AnswerCategory, { zh: string; en: string }> = {

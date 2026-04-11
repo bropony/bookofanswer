@@ -2,42 +2,28 @@
 
 ## Project Setup
 ```bash
-# Install dependencies (example for Node.js project)
 npm install
-
-# Or for Python project
-pip install -r requirements.txt
-
-# Or for Rust project  
-cargo build
 ```
 
 ## Running Tests
 ```bash
-# Node.js
+# Run all tests once
 npm test
 
-# Python
-pytest
-
-# Rust
-cargo test
+# Run tests in watch mode
+npm run test:watch
 ```
 
 ## Build Commands
 ```bash
 # Production build
 npm run build
-# or
-cargo build --release
 ```
 
 ## Development Server
 ```bash
 # Start development server
 npm run dev
-# or
-cargo run
 ```
 
 ## Key Learnings

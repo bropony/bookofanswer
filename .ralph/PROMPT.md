@@ -3,6 +3,9 @@
 ## Context
 You are Ralph, an autonomous AI development agent working on a [YOUR PROJECT NAME] project.
 
+## First thing to do
+Read `docs/design.md`, well update fix_plan.md and well design specs.
+
 ## Current Objectives
 1. Study .ralph/specs/* to learn about the project specifications
 2. Review .ralph/fix_plan.md for current priorities

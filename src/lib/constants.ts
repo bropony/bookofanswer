@@ -1,7 +1,7 @@
 /** Animation durations in milliseconds */
 export const ANIM = {
   /** Category cycling interval (page.tsx) */
-  CATEGORY_CYCLE_MS: 3000,
+  CATEGORY_CYCLE_MS: 5000,
 
   /** MatrixRain delay before final reveal */
   MATRIX_REVEAL_DELAY_MS: 1800,
