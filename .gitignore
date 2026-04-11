@@ -30,6 +30,22 @@ Thumbs.db
 # Node modules (if using Node.js projects)
 node_modules/
 
+# Next.js build output
+.next/
+out/
+
+# TypeScript build info
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel
+.vercel
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
 # Python cache (if using Python projects)
 __pycache__/
 *.pyc

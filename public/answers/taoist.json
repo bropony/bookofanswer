@@ -1,0 +1,206 @@
+{
+  "category": "taoist",
+  "label": { "zh": "道", "en": "Taoist Wisdom" },
+  "answers": [
+    {
+      "answer": { "zh": "顺应自然", "en": "Follow the flow of nature" },
+      "interpretation": { "zh": "人法地，地法天，天法道，道法自然。——《道德经》第二十五章", "en": "Humans follow the earth, the earth follows heaven, heaven follows the Way, the Way follows what is natural. — Tao Te Ching, Chapter 25" }
+    },
+    {
+      "answer": { "zh": "上善若水", "en": "The highest good is like water" },
+      "interpretation": { "zh": "上善若水。水善利万物而不争，处众人之所恶，故几于道。——《道德经》第八章", "en": "The highest good is like water. Water benefits all things and does not compete. It stays in places that others disdain, therefore it is close to the Way. — Tao Te Ching, Chapter 8" }
+    },
+    {
+      "answer": { "zh": "无为而治", "en": "Govern through non-action" },
+      "interpretation": { "zh": "道常无为而无不为。侯王若能守之，万物将自化。——《道德经》第三十七章", "en": "The Way always does nothing, yet nothing is left undone. If rulers can hold to it, all things will transform themselves. — Tao Te Ching, Chapter 37" }
+    },
+    {
+      "answer": { "zh": "知足不辱", "en": "Know when enough is enough" },
+      "interpretation": { "zh": "知足不辱，知止不殆，可以长久。——《道德经》第四十四章", "en": "He who knows contentment will not suffer disgrace; he who knows when to stop will not encounter danger. Thus he can long endure. — Tao Te Ching, Chapter 44" }
+    },
+    {
+      "answer": { "zh": "柔弱胜刚", "en": "Softness overcomes hardness" },
+      "interpretation": { "zh": "天下莫柔弱于水，而攻坚强者莫之能胜。——《道德经》第七十八章", "en": "Nothing in the world is softer than water, yet nothing is better at overcoming the hard and strong. — Tao Te Ching, Chapter 78" }
+    },
+    {
+      "answer": { "zh": "守静笃", "en": "Embrace deep stillness" },
+      "interpretation": { "zh": "致虚极，守静笃。万物并作，吾以观复。——《道德经》第十六章", "en": "Attain the ultimate emptiness; hold fast to the deepest stillness. All things arise together; I watch them return. — Tao Te Ching, Chapter 16" }
+    },
+    {
+      "answer": { "zh": "大道至简", "en": "The great Way is utterly simple" },
+      "interpretation": { "zh": "大道甚夷，而人好径。——《道德经》第五十三章", "en": "The great Way is broad and smooth, yet people prefer bypaths. — Tao Te Ching, Chapter 53" }
+    },
+    {
+      "answer": { "zh": "返璞归真", "en": "Return to original simplicity" },
+      "interpretation": { "zh": "见素抱朴，少私寡欲。——《道德经》第十九章", "en": "Appear plain, embrace simplicity, diminish selfishness, and reduce desires. — Tao Te Ching, Chapter 19" }
+    },
+    {
+      "answer": { "zh": "祸福相依", "en": "Fortune and misfortune depend on each other" },
+      "interpretation": { "zh": "祸兮福之所倚，福兮祸之所伏。——《道德经》第五十八章", "en": "Misfortune is what fortune depends upon; fortune is where misfortune hides. — Tao Te Ching, Chapter 58" }
+    },
+    {
+      "answer": { "zh": "不争之德", "en": "The virtue of not contending" },
+      "interpretation": { "zh": "夫唯不争，故天下莫能与之争。——《道德经》第二十二章", "en": "Only because he does not compete, no one in the world can compete with him. — Tao Te Ching, Chapter 22" }
+    },
+    {
+      "answer": { "zh": "虚心实腹", "en": "Empty the mind, fill the belly" },
+      "interpretation": { "zh": "虚其心，实其腹，弱其志，强其骨。——《道德经》第三章", "en": "Empty their minds, fill their bellies, weaken their ambitions, strengthen their bones. — Tao Te Ching, Chapter 3" }
+    },
+    {
+      "answer": { "zh": "功成身退", "en": "Withdraw when the work is done" },
+      "interpretation": { "zh": "功遂身退，天之道也。——《道德经》第九章", "en": "When your work is done, withdraw — this is the Way of heaven. — Tao Te Ching, Chapter 9" }
+    },
+    {
+      "answer": { "zh": "道法自然", "en": "The Way follows nature" },
+      "interpretation": { "zh": "道之尊，德之贵，夫莫之命而常自然。——《道德经》第五十一章", "en": "The Way is honored and virtue is valued — not by decree, but always through naturalness. — Tao Te Ching, Chapter 51" }
+    },
+    {
+      "answer": { "zh": "和光同尘", "en": "Soften your light, merge with the dust" },
+      "interpretation": { "zh": "挫其锐，解其纷，和其光，同其尘。——《道德经》第四章", "en": "Blunt the sharpness, untangle the knots, soften the glare, merge with the dust. — Tao Te Ching, Chapter 4" }
+    },
+    {
+      "answer": { "zh": "知者不言", "en": "Those who know do not speak" },
+      "interpretation": { "zh": "知者不言，言者不知。——《道德经》第五十六章", "en": "Those who know do not speak; those who speak do not know. — Tao Te Ching, Chapter 56" }
+    },
+    {
+      "answer": { "zh": "大智若愚", "en": "Great wisdom appears like folly" },
+      "interpretation": { "zh": "大巧若拙，大辩若讷。——《道德经》第四十五章", "en": "Great skill seems clumsy; great eloquence seems stammering. — Tao Te Ching, Chapter 45" }
+    },
+    {
+      "answer": { "zh": "逍遥自在", "en": "Wander freely, unconstrained" },
+      "interpretation": { "zh": "鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里。——《庄子·逍遥游》", "en": "When the Peng bird journeys to the Southern Sea, it strikes the water for three thousand miles, then spirals upward ninety thousand miles on the whirlwind. — Zhuangzi, Free and Easy Wandering" }
+    },
+    {
+      "answer": { "zh": "物我两忘", "en": "Forget both self and the world" },
+      "interpretation": { "zh": "天地与我并生，而万物与我为一。——《庄子·齐物论》", "en": "Heaven and earth were born at the same time I was, and all things are one with me. — Zhuangzi, Discussion on Making All Things Equal" }
+    },
+    {
+      "answer": { "zh": "乘物游心", "en": "Ride the things of the world and let your mind wander" },
+      "interpretation": { "zh": "乘物以游心，托不得已以养中。——《庄子·人间世》", "en": "Ride the things of the world to let your mind wander; entrust yourself to the inevitable to nourish your inner center. — Zhuangzi, In the World of Men" }
+    },
+    {
+      "answer": { "zh": "无用之用", "en": "The usefulness of the useless" },
+      "interpretation": { "zh": "人皆知有用之用，而莫知无用之用也。——《庄子·人间世》", "en": "Everyone knows the usefulness of the useful, but no one knows the usefulness of the useless. — Zhuangzi, In the World of Men" }
+    },
+    {
+      "answer": { "zh": "相忘江湖", "en": "Forget each other in rivers and lakes" },
+      "interpretation": { "zh": "泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。——《庄子·大宗师》", "en": "When the springs dry up, fish are stranded together on land. They breathe on each other to keep each other moist, and splash each other with foam. Better to forget each other in the freedom of rivers and lakes. — Zhuangzi, The Great and Venerable Teacher" }
+    },
+    {
+      "answer": { "zh": "以静制动", "en": "Use stillness to overcome movement" },
+      "interpretation": { "zh": "重为轻根，静为躁君。——《道德经》第二十六章", "en": "The heavy is the root of the light; stillness is the master of agitation. — Tao Te Ching, Chapter 26" }
+    },
+    {
+      "answer": { "zh": "抱一为式", "en": "Embrace the One as your model" },
+      "interpretation": { "zh": "是以圣人抱一为天下式。——《道德经》第二十二章", "en": "Therefore the sage embraces the One and serves as a model for the world. — Tao Te Ching, Chapter 22" }
+    },
+    {
+      "answer": { "zh": "进退有度", "en": "Know when to advance and when to retreat" },
+      "interpretation": { "zh": "持而盈之，不如其已。——《道德经》第九章", "en": "Rather than fill a vessel to overflowing, it is better to stop in time. — Tao Te Ching, Chapter 9" }
+    },
+    {
+      "answer": { "zh": "化而为鸟", "en": "Transform and rise above" },
+      "interpretation": { "zh": "北冥有鱼，其名为鲲。鲲之大，不知其几千里也。化而为鸟，其名为鹏。——《庄子·逍遥游》", "en": "In the Northern Sea there is a fish named Kun. Its size is beyond measure. It transforms into a bird named Peng, whose back spans thousands of miles. — Zhuangzi, Free and Easy Wandering" }
+    },
+    {
+      "answer": { "zh": "治人事天", "en": "Serve heaven and govern self" },
+      "interpretation": { "zh": "治人事天，莫若啬。夫唯啬，是谓早服。——《道德经》第五十九章", "en": "In governing people and serving heaven, nothing surpasses frugality. Only through frugality can one prepare early. — Tao Te Ching, Chapter 59" }
+    },
+    {
+      "answer": { "zh": "藏锋敛锐", "en": "Hide your edge and gather your light" },
+      "interpretation": { "zh": "大方无隅，大器晚成，大音希声，大象无形。——《道德经》第四十一章", "en": "The greatest square has no corners; the greatest vessel takes longest to complete; the greatest sound is silent; the greatest form has no shape. — Tao Te Ching, Chapter 41" }
+    },
+    {
+      "answer": { "zh": "安时处顺", "en": "Be at peace with the times, accept the changes" },
+      "interpretation": { "zh": "安时而处顺，哀乐不能入也。——《庄子·大宗师》", "en": "Be content with the times and follow the natural course — then neither sorrow nor joy can enter. — Zhuangzi, The Great and Venerable Teacher" }
+    },
+    {
+      "answer": { "zh": "知白守黑", "en": "Know the white, keep to the black" },
+      "interpretation": { "zh": "知其白，守其黑，为天下式。——《道德经》第二十八章", "en": "Know the white but keep to the black, and become a model for the world. — Tao Te Ching, Chapter 28" }
+    },
+    {
+      "answer": { "zh": "忘机息心", "en": "Forget cunning, quiet the mind" },
+      "interpretation": { "zh": "至人无己，神人无功，圣人无名。——《庄子·逍遥游》", "en": "The perfect person has no self; the spirit-like person has no achievement; the sage has no name. — Zhuangzi, Free and Easy Wandering" }
+    },
+    {
+      "answer": { "zh": "曲则全", "en": "Yield and remain whole" },
+      "interpretation": { "zh": "曲则全，枉则直，洼则盈，敝则新。——《道德经》第二十二章", "en": "Yield and remain whole; bend and remain straight; be hollow and become full; be worn and become new. — Tao Te Ching, Chapter 22" }
+    },
+    {
+      "answer": { "zh": "天道无亲", "en": "The Way of heaven shows no favoritism" },
+      "interpretation": { "zh": "天道无亲，常与善人。——《道德经》第七十九章", "en": "The Way of heaven has no favorites; it is always on the side of the good. — Tao Te Ching, Chapter 79" }
+    },
+    {
+      "answer": { "zh": "因循为用", "en": "Follow the natural course to your advantage" },
+      "interpretation": { "zh": "顺天者存，逆天者亡。——《淮南子·人间训》", "en": "Those who follow heaven will survive; those who go against heaven will perish. — Huainanzi, Human Realm" }
+    },
+    {
+      "answer": { "zh": "清静无为", "en": "Remain pure, still, and unforced" },
+      "interpretation": { "zh": "清静为天下正。——《道德经》第四十五章", "en": "Clarity and stillness set the standard for the world. — Tao Te Ching, Chapter 45" }
+    },
+    {
+      "answer": { "zh": "齐物等观", "en": "See all things as equal" },
+      "interpretation": { "zh": "以道观之，物无贵贱。——《庄子·秋水》", "en": "Seen from the standpoint of the Way, nothing is precious or worthless. — Zhuangzi, Autumn Floods" }
+    },
+    {
+      "answer": { "zh": "慎终如始", "en": "End as carefully as you begin" },
+      "interpretation": { "zh": "民之从事，常于几成而败之。慎终如始，则无败事。——《道德经》第六十四章", "en": "People often fail on the verge of success. Take as much care at the end as at the beginning, and there will be no failures. — Tao Te Ching, Chapter 64" }
+    },
+    {
+      "answer": { "zh": "含德之厚", "en": "Nurture deep virtue within" },
+      "interpretation": { "zh": "含德之厚，比于赤子。毒虫不螫，猛兽不据，攫鸟不搏。——《道德经》第五十五章", "en": "One who embodies boundless virtue is like a newborn child. Poisonous insects will not sting it, wild beasts will not seize it, birds of prey will not strike it. — Tao Te Ching, Chapter 55" }
+    },
+    {
+      "answer": { "zh": "以退为进", "en": "Step back to move forward" },
+      "interpretation": { "zh": "后其身而身先，外其身而身存。——《道德经》第七章", "en": "By placing himself behind, he finds himself ahead; by disregarding his own life, he preserves it. — Tao Te Ching, Chapter 7" }
+    },
+    {
+      "answer": { "zh": "与时俱化", "en": "Transform with the times" },
+      "interpretation": { "zh": "与世偕行而不替，所行之备而不洫。——《庄子·则阳》", "en": "Move with the world without being replaced; act in full measure without being exhausted. — Zhuangzi, Zeyang" }
+    },
+    {
+      "answer": { "zh": "不言之教", "en": "Teaching without words" },
+      "interpretation": { "zh": "不言之教，无为之益，天下希及之。——《道德经》第四十三章", "en": "The teaching without words, the benefit of non-action — few in the world can grasp these. — Tao Te Ching, Chapter 43" }
+    },
+    {
+      "answer": { "zh": "游刃有余", "en": "Move through life with room to spare" },
+      "interpretation": { "zh": "彼节者有间，而刀刃者无厚；以无厚入有间，恢恢乎其于游刃必有余地矣。——《庄子·养生主》", "en": "The joints have gaps, and the blade has no thickness. When what has no thickness enters the gaps, there is ample room to move the blade freely. — Zhuangzi, The Secret of Caring for Life" }
+    },
+    {
+      "answer": { "zh": "长而不宰", "en": "Guide without controlling" },
+      "interpretation": { "zh": "生而不有，为而不恃，长而不宰，是谓玄德。——《道德经》第十章", "en": "Give birth but do not possess, act but do not presume, lead but do not control — this is called profound virtue. — Tao Te Ching, Chapter 10" }
+    },
+    {
+      "answer": { "zh": "虚以待物", "en": "Be empty and receptive to all things" },
+      "interpretation": { "zh": "唯道集虚。虚者，心斋也。——《庄子·人间世》", "en": "Only the Way gathers in emptiness. Emptiness is the fasting of the mind. — Zhuangzi, In the World of Men" }
+    },
+    {
+      "answer": { "zh": "行于大道", "en": "Walk upon the great Way" },
+      "interpretation": { "zh": "使我介然有知，行于大道，唯施是畏。——《道德经》第五十三章", "en": "Were I to possess even a little knowledge, I would walk upon the great Way and fear only straying from it. — Tao Te Ching, Chapter 53" }
+    },
+    {
+      "answer": { "zh": "变化无常", "en": "Accept that all things change" },
+      "interpretation": { "zh": "万物皆种也，以不同形相禅，始卒若环，莫得其伦。——《庄子·寓言》", "en": "All things are of one seed, transforming into different forms in succession, beginning and ending like a ring, with no one able to discern their order. — Zhuangzi, Fables" }
+    },
+    {
+      "answer": { "zh": "积柔成刚", "en": "Accumulated softness becomes strength" },
+      "interpretation": { "zh": "坚强处下，柔弱处上。——《道德经》第七十六章", "en": "The hard and strong occupy the low position; the soft and weak occupy the high. — Tao Te Ching, Chapter 76" }
+    },
+    {
+      "answer": { "zh": "与世无争", "en": "Live without competing with the world" },
+      "interpretation": { "zh": "圣人之道，为而不争。——《道德经》第八十一章", "en": "The Way of the sage is to act without competing. — Tao Te Ching, Chapter 81" }
+    },
+    {
+      "answer": { "zh": "善利万物", "en": "Benefit all things graciously" },
+      "interpretation": { "zh": "居善地，心善渊，与善仁，言善信，政善治，事善能，动善时。——《道德经》第八章", "en": "In dwelling, choose the lowly ground; in thinking, be profound; in giving, be generous; in speaking, be truthful; in governing, be orderly; in working, be capable; in moving, choose the right time. — Tao Te Ching, Chapter 8" }
+    },
+    {
+      "answer": { "zh": "静水流深", "en": "Still waters run deep" },
+      "interpretation": { "zh": "孰能浊以静之徐清？孰能安以动之徐生？——《道德经》第十五章", "en": "Who can muddy the water and still it until it slowly clears? Who can keep still and move it until life slowly arises? — Tao Te Ching, Chapter 15" }
+    },
+    {
+      "answer": { "zh": "得意忘言", "en": "Grasp the meaning, forget the words" },
+      "interpretation": { "zh": "得鱼忘筌，得意忘言。——《庄子·外物》", "en": "Once you catch the fish, forget the trap. Once you grasp the meaning, forget the words. — Zhuangzi, External Things" }
+    }
+  ]
+}

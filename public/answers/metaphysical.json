@@ -1,0 +1,2004 @@
+{
+  "answers": [
+    {
+      "answer": {
+        "zh": "星辰指引方向",
+        "en": "The stars guide the way"
+      },
+      "interpretation": {
+        "zh": "天行健，君子以自强不息。——《易经》",
+        "en": "As Heaven maintains vigor through movements, a gentleman should constantly strive for self-improvement. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "水到渠自成",
+        "en": "When water flows, the channel forms itself"
+      },
+      "interpretation": {
+        "zh": "上善若水，水善利万物而不争。——《道德经》",
+        "en": "The highest good is like water; water benefits all things and does not compete. — Tao Te Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "阴阳交汇之处，便是转机",
+        "en": "Where yin and yang converge, there lies the turning point"
+      },
+      "interpretation": {
+        "zh": "一阴一阳之谓道。——《易经·系辞》",
+        "en": "The alternation of yin and yang is called the Tao. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "厚积薄发，静待花开",
+        "en": "Accumulate deeply, release gently; wait quietly for flowers to bloom"
+      },
+      "interpretation": {
+        "zh": "潜龙勿用，阳气潜藏。——《易经·乾卦》",
+        "en": "The hidden dragon does not act; yang energy lies concealed. — I Ching, Hexagram Qian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "五行流转，时机已至",
+        "en": "The five elements cycle; the moment has arrived"
+      },
+      "interpretation": {
+        "zh": "金木水火土，更贵更贱，以知生死。——《黄帝内经》",
+        "en": "Metal, wood, water, fire, and earth wax and wane; through them one understands life and death. — Yellow Emperor's Inner Canon"
+      }
+    },
+    {
+      "answer": {
+        "zh": "风起于青萍之末",
+        "en": "The wind rises from the tips of green duckweed"
+      },
+      "interpretation": {
+        "zh": "履霜，坚冰至。——《易经·坤卦》",
+        "en": "Treading upon frost, solid ice will arrive. — I Ching, Hexagram Kun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天机不可泄露，顺其自然",
+        "en": "Heaven's secrets must not be revealed; let nature take its course"
+      },
+      "interpretation": {
+        "zh": "道法自然。——《道德经》",
+        "en": "The Tao follows what is natural. — Tao Te Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "紫微星动，贵人将至",
+        "en": "The Ziwei star stirs; a noble benefactor approaches"
+      },
+      "interpretation": {
+        "zh": "飞龙在天，利见大人。——《易经·乾卦》",
+        "en": "The flying dragon is in the heavens; it benefits to see the great person. — I Ching, Hexagram Qian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命中注定，不可强求",
+        "en": "Destined by fate; it cannot be forced"
+      },
+      "interpretation": {
+        "zh": "不知命，无以为君子也。——《论语》",
+        "en": "One who does not know fate cannot be a gentleman. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "卦象显示：否极泰来",
+        "en": "The hexagram reveals: from misfortune, fortune emerges"
+      },
+      "interpretation": {
+        "zh": "无平不陂，无往不复。——《易经·泰卦》",
+        "en": "There is no level without incline, no departure without return. — I Ching, Hexagram Tai"
+      }
+    },
+    {
+      "answer": {
+        "zh": "缘分天注定，半点不由人",
+        "en": "Destiny is written in heaven; not a fraction is controlled by man"
+      },
+      "interpretation": {
+        "zh": "同声相应，同气相求。——《易经·乾卦·文言》",
+        "en": "Similar voices resonate together; similar energies seek each other. — I Ching, Qian Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "守得云开见月明",
+        "en": "Wait until the clouds part to see the bright moon"
+      },
+      "interpretation": {
+        "zh": "困，亨，贞，大人吉，无咎。——《易经·困卦》",
+        "en": "Oppression creates success. Perseverance brings good fortune to the great person, no blame. — I Ching, Hexagram Kun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "坎离交泰，万象更新",
+        "en": "When Kan and Li harmonize, all things renew"
+      },
+      "interpretation": {
+        "zh": "日新之谓盛德。——《易经·系辞》",
+        "en": "Daily renewal is called supreme virtue. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "龙归大海，凤栖梧桐",
+        "en": "The dragon returns to the vast sea; the phoenix perches on the parasol tree"
+      },
+      "interpretation": {
+        "zh": "云从龙，风从虎。——《易经·乾卦·文言》",
+        "en": "Clouds follow the dragon; winds follow the tiger. — I Ching, Qian Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "乾坤已定，顺天者昌",
+        "en": "Heaven and Earth are set; those who follow the Tao prosper"
+      },
+      "interpretation": {
+        "zh": "顺天者存，逆天者亡。——《孟子》",
+        "en": "Those who follow Heaven survive; those who go against Heaven perish. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "北斗注死，南斗注生",
+        "en": "The Northern Dipper governs death; the Southern Dipper governs life"
+      },
+      "interpretation": {
+        "zh": "生生之谓易。——《易经·系辞》",
+        "en": "The continuous production of life is called change. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "八字已然，因果自循",
+        "en": "The eight characters are set; karma follows its own course"
+      },
+      "interpretation": {
+        "zh": "积善之家，必有余庆。——《易经·坤卦·文言》",
+        "en": "A family that accumulates goodness will surely have surplus blessings. — I Ching, Kun Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "四柱推命，大运将至",
+        "en": "The four pillars foretell; a great fortune cycle approaches"
+      },
+      "interpretation": {
+        "zh": "时乘六龙以御天。——《易经·乾卦》",
+        "en": "In due time, ride the six dragons to govern the heavens. — I Ching, Hexagram Qian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天道轮回，苍天饶过谁",
+        "en": "The Tao of Heaven cycles; whom does the azure sky spare"
+      },
+      "interpretation": {
+        "zh": "天道亏盈而益谦。——《易经·谦卦》",
+        "en": "The Tao of Heaven diminishes the full and benefits the humble. — I Ching, Hexagram Qian (Modesty)"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天乙贵人暗中相助",
+        "en": "The Heavenly Noble One secretly lends aid"
+      },
+      "interpretation": {
+        "zh": "利见大人，以从贵也。——《易经·讼卦》",
+        "en": "It benefits to see a great person, to follow the noble one. — I Ching, Hexagram Song"
+      }
+    },
+    {
+      "answer": {
+        "zh": "日月同辉，阴阳调和",
+        "en": "Sun and moon shine together; yin and yang are in harmony"
+      },
+      "interpretation": {
+        "zh": "一阖一辟谓之变，往来不穷谓之通。——《易经·系辞》",
+        "en": "One closing and one opening is called change; going and coming without end is called penetration. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命中带禄，福泽绵长",
+        "en": "Destiny carries fortune; blessings stretch far and long"
+      },
+      "interpretation": {
+        "zh": "积善之家，必有余庆；积不善之家，必有余殃。——《易经·坤卦·文言》",
+        "en": "A family that accumulates goodness will have surplus joy; a family that accumulates evil will have surplus disaster. — I Ching, Kun Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "前世因缘今生续",
+        "en": "Karmic bonds of past lives continue into this life"
+      },
+      "interpretation": {
+        "zh": "积土成山，风雨兴焉；积水成渊，蛟龙生焉。——《荀子》",
+        "en": "Accumulate earth to form a mountain, and wind and rain arise; accumulate water to form an abyss, and dragons are born. — Xunzi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "六爻皆吉，诸事顺遂",
+        "en": "All six lines are auspicious; all matters proceed smoothly"
+      },
+      "interpretation": {
+        "zh": "元亨利贞。——《易经·乾卦》",
+        "en": "Sublime success, furthering through perseverance. — I Ching, Hexagram Qian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天罗地网，终有一破",
+        "en": "Heaven's net and earth's snare will eventually be broken"
+      },
+      "interpretation": {
+        "zh": "天网恢恢，疏而不失。——《道德经》",
+        "en": "Heaven's net is vast; its meshes are wide yet it lets nothing slip through. — Tao Te Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命犯太岁，宜静不宜动",
+        "en": "Destiny clashes with Tai Sui; stillness is better than movement"
+      },
+      "interpretation": {
+        "zh": "安其身而后动，易其心而后语。——《易经·系辞》",
+        "en": "Settle yourself before acting; calm your mind before speaking. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "九宫飞星，吉位已临",
+        "en": "The nine palace flying stars have arrived at an auspicious position"
+      },
+      "interpretation": {
+        "zh": "吉人之辞寡，躁人之辞多。——《易经·系辞》",
+        "en": "The words of a fortunate person are few; the words of a restless person are many. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "青龙入命，万事如意",
+        "en": "The Azure Dragon enters your destiny; all things go as wished"
+      },
+      "interpretation": {
+        "zh": "大人虎变，其文炳也；君子豹变，其文蔚也。——《易经·革卦》",
+        "en": "The great person changes like a tiger, its markings brilliant; the noble person changes like a leopard, its markings elegant. — I Ching, Hexagram Ge"
+      }
+    },
+    {
+      "answer": {
+        "zh": "六道轮回，此劫已渡",
+        "en": "Through the six realms of rebirth, this tribulation has been crossed"
+      },
+      "interpretation": {
+        "zh": "剥极必复。——《易经》",
+        "en": "When stripping reaches its extreme, return inevitably follows. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "太极生两仪，变化将至",
+        "en": "From the Supreme Ultimate emerge the two polarities; change is coming"
+      },
+      "interpretation": {
+        "zh": "易有太极，是生两仪。——《易经·系辞》",
+        "en": "In change there is the Supreme Ultimate, which generates the two polarities. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "白虎临门，须防暗箭",
+        "en": "The White Tiger arrives at the door; guard against hidden arrows"
+      },
+      "interpretation": {
+        "zh": "君子以思患而豫防之。——《易经·既济卦》",
+        "en": "The superior person thinks of danger and prepares against it beforehand. — I Ching, Hexagram Ji Ji"
+      }
+    },
+    {
+      "answer": {
+        "zh": "三生有幸，贵人扶持",
+        "en": "Fortunate across three lifetimes; supported by noble benefactors"
+      },
+      "interpretation": {
+        "zh": "二人同心，其利断金。——《易经·系辞》",
+        "en": "When two people are of one mind, their sharpness can cut through metal. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命里有时终须有，命里无时莫强求",
+        "en": "What is destined to be yours will arrive; what is not, do not force"
+      },
+      "interpretation": {
+        "zh": "谦谦君子，卑以自牧也。——《易经·谦卦》",
+        "en": "The humble superior person cultivates himself through modesty. — I Ching, Hexagram Qian (Modesty)"
+      }
+    },
+    {
+      "answer": {
+        "zh": "玄天上帝指引迷津",
+        "en": "The Dark Heavenly Lord guides you through the crossing"
+      },
+      "interpretation": {
+        "zh": "谦尊而光，卑而不可逾。——《易经·谦卦》",
+        "en": "Modesty in high position shines brightly; in low position, it cannot be surpassed. — I Ching, Hexagram Qian (Modesty)"
+      }
+    },
+    {
+      "answer": {
+        "zh": "乾坤流转，时运将至",
+        "en": "Heaven and Earth turn; your fortune cycle is arriving"
+      },
+      "interpretation": {
+        "zh": "穷则变，变则通，通则久。——《易经·系辞》",
+        "en": "When exhausted, change; when changed, pass through; when passing through, endure. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "朱雀振翅，文书有利",
+        "en": "The Vermilion Bird spreads its wings; written matters are favorable"
+      },
+      "interpretation": {
+        "zh": "鸣鹤在阴，其子和之。——《易经·中孚卦》",
+        "en": "A calling crane in the shade; its young answer it. — I Ching, Hexagram Zhong Fu"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命格清奇，非池中物",
+        "en": "Your destiny is extraordinary; you are not one to remain in a pond"
+      },
+      "interpretation": {
+        "zh": "或跃在渊，无咎。——《易经·乾卦》",
+        "en": "Perhaps leaping in the abyss, no blame. — I Ching, Hexagram Qian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "玄武镇守，暗中护佑",
+        "en": "The Black Tortoise stands guard; secretly protecting you"
+      },
+      "interpretation": {
+        "zh": "劳谦，君子有终，吉。——《易经·谦卦》",
+        "en": "The humble one who labors, the superior person achieves completion, good fortune. — I Ching, Hexagram Qian (Modesty)"
+      }
+    },
+    {
+      "answer": {
+        "zh": "桃花星动，情缘已至",
+        "en": "The Peach Blossom star stirs; romantic fate has arrived"
+      },
+      "interpretation": {
+        "zh": "咸，亨利贞，取女吉。——《易经·咸卦》",
+        "en": "Influence, success through perseverance; taking a wife brings good fortune. — I Ching, Hexagram Xian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "紫气东来，大吉之兆",
+        "en": "Purple qi comes from the east; an omen of great fortune"
+      },
+      "interpretation": {
+        "zh": "黄裳元吉。——《易经·坤卦》",
+        "en": "Yellow garment, supreme good fortune. — I Ching, Hexagram Kun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "河图洛书，天意已明",
+        "en": "From the River Chart and Luo Scroll, Heaven's will is made clear"
+      },
+      "interpretation": {
+        "zh": "天生神物，圣人则之。——《易经·系辞》",
+        "en": "Heaven produces divine things; the sage takes them as a model. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "五行缺金，宜佩戴宝物",
+        "en": "The five elements lack metal; it is advisable to wear precious objects"
+      },
+      "interpretation": {
+        "zh": "天地变化，草木蕃。——《易经·坤卦·文言》",
+        "en": "When Heaven and Earth undergo change, grass and trees flourish. — I Ching, Kun Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "三星拱照，福禄寿全",
+        "en": "The three stars shine upon you; fortune, prosperity, and longevity are complete"
+      },
+      "interpretation": {
+        "zh": "大吉大利，万事亨通。——民间谚语",
+        "en": "Great fortune and great profit; all matters go smoothly. — Chinese Folk Proverb"
+      }
+    },
+    {
+      "answer": {
+        "zh": "劫数已尽，否去泰来",
+        "en": "Tribulations are exhausted; misfortune departs and fortune arrives"
+      },
+      "interpretation": {
+        "zh": "物不可以终难，故受之以解。——《易经·序卦》",
+        "en": "Things cannot remain in difficulty forever; thus it is followed by deliverance. — I Ching, Sequence of Hexagrams"
+      }
+    },
+    {
+      "answer": {
+        "zh": "七政四余，星辰布局已成",
+        "en": "The seven luminaries and four extras; the celestial arrangement is set"
+      },
+      "interpretation": {
+        "zh": "观乎天文，以察时变。——《易经·贲卦·彖》",
+        "en": "Observe the patterns of heaven to examine the changes of the times. — I Ching, Hexagram Bi, Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命带天德，逢凶化吉",
+        "en": "Destiny carries Heavenly Virtue; misfortune transforms into fortune"
+      },
+      "interpretation": {
+        "zh": "自天佑之，吉无不利。——《易经·大有卦》",
+        "en": "Blessed by Heaven, good fortune, nothing that is not beneficial. — I Ching, Hexagram Da You"
+      }
+    },
+    {
+      "answer": {
+        "zh": "气运已开，乘风破浪",
+        "en": "The qi of fortune has opened; ride the wind and break the waves"
+      },
+      "interpretation": {
+        "zh": "木道乃行。——《易经·涣卦》",
+        "en": "The way of wood prevails. — I Ching, Hexagram Huan"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天罡地煞，各有定数",
+        "en": "The Heavenly Dipper and Earthly Fiends each have their appointed numbers"
+      },
+      "interpretation": {
+        "zh": "天地之数五十有五。——《易经·系辞》",
+        "en": "The numbers of Heaven and Earth total fifty-five. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "文曲星照，学业有成",
+        "en": "The star of literature shines; scholarly success is at hand"
+      },
+      "interpretation": {
+        "zh": "君子以多识前言往行，以畜其德。——《易经·大畜卦》",
+        "en": "The superior person studies the words and deeds of the past to cultivate virtue. — I Ching, Hexagram Da Xu"
+      }
+    },
+    {
+      "answer": {
+        "zh": "太极护体，百邪不侵",
+        "en": "The Supreme Ultimate guards you; a hundred evils cannot invade"
+      },
+      "interpretation": {
+        "zh": "直方大，不习无不利。——《易经·坤卦》",
+        "en": "Straight, square, great; without practice, nothing is unfavorable. — I Ching, Hexagram Kun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "先天八卦已定，后天运势将转",
+        "en": "The pre-heaven eight trigrams are set; post-heaven fortune is about to shift"
+      },
+      "interpretation": {
+        "zh": "乾坤其易之缊邪。——《易经·系辞》",
+        "en": "Qian and Kun are the storehouse of change. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天喜星动，喜事将近",
+        "en": "The Heavenly Joy star moves; a happy event is near"
+      },
+      "interpretation": {
+        "zh": "和气致祥，乖气致戾。——民间谚语",
+        "en": "Harmonious energy brings auspiciousness; discordant energy brings misfortune. — Chinese Folk Proverb"
+      }
+    },
+    {
+      "answer": {
+        "zh": "罗睺计都，暗中考验",
+        "en": "Rahu and Ketu secretly test you"
+      },
+      "interpretation": {
+        "zh": "君子以反身修德。——《易经·蹇卦》",
+        "en": "The superior person turns inward and cultivates virtue. — I Ching, Hexagram Jian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "三元九运，当下转运",
+        "en": "Three eras and nine periods; fortune shifts now"
+      },
+      "interpretation": {
+        "zh": "变则通，通则久。——《易经·系辞》",
+        "en": "Change leads to passage; passage leads to endurance. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命犯孤辰，需修善缘",
+        "en": "Destiny encounters the lone star; cultivate good karma"
+      },
+      "interpretation": {
+        "zh": "善不积不足以成名，恶不积不足以灭身。——《易经·系辞》",
+        "en": "Without accumulating goodness, one cannot establish a name; without accumulating evil, one cannot destroy oneself. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "金匮星临，财源广进",
+        "en": "The Golden Cabinet star arrives; wealth flows abundantly"
+      },
+      "interpretation": {
+        "zh": "富有之谓大业，日新之谓盛德。——《易经·系辞》",
+        "en": "Abundance is called great enterprise; daily renewal is called supreme virtue. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "八字带华盖，灵性超凡",
+        "en": "The eight characters carry the Canopy star; spiritual gifts transcend the ordinary"
+      },
+      "interpretation": {
+        "zh": "形而上者谓之道，形而下者谓之器。——《易经·系辞》",
+        "en": "That which is above form is called Tao; that which is below form is called tool. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命宫坐禄，一生安稳",
+        "en": "The life palace sits upon fortune; a lifetime of stability"
+      },
+      "interpretation": {
+        "zh": "家人，利女贞。——《易经·家人卦》",
+        "en": "The family, beneficial for the woman to persevere. — I Ching, Hexagram Jia Ren"
+      }
+    },
+    {
+      "answer": {
+        "zh": "六甲神将暗中护持",
+        "en": "The six protective deities secretly guard you"
+      },
+      "interpretation": {
+        "zh": "天之所助者顺也。——《易经·系辞》",
+        "en": "What Heaven assists is that which accords with its nature. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "流年不利，韬光养晦",
+        "en": "The passing year is unfavorable; conceal your light and bide your time"
+      },
+      "interpretation": {
+        "zh": "含章可贞。——《易经·坤卦》",
+        "en": "Hidden brilliance, possible perseverance. — I Ching, Hexagram Kun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "文昌星明，才华横溢",
+        "en": "The star of culture shines bright; talent overflows"
+      },
+      "interpretation": {
+        "zh": "君子以朋友讲习。——《易经·兑卦》",
+        "en": "The superior person discusses and practices with friends. — I Ching, Hexagram Dui"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命带驿马，行走四方",
+        "en": "Destiny carries the Traveling Horse; you will roam in all directions"
+      },
+      "interpretation": {
+        "zh": "无妄之往，得志也。——《易经·无妄卦》",
+        "en": "Going without falsehood, one's will is fulfilled. — I Ching, Hexagram Wu Wang"
+      }
+    },
+    {
+      "answer": {
+        "zh": "左辅右弼，贵人如云",
+        "en": "With Left Assistant and Right Helper stars, benefactors are like clouds"
+      },
+      "interpretation": {
+        "zh": "见群龙无首，吉。——《易经·乾卦》",
+        "en": "Seeing a group of dragons without a head, good fortune. — I Ching, Hexagram Qian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "五鬼运财，暗中有助",
+        "en": "The five spirits bring wealth; there is secret assistance"
+      },
+      "interpretation": {
+        "zh": "谦亨，天道下济而光明。——《易经·谦卦》",
+        "en": "Modesty creates success; the Tao of Heaven descends to bring light. — I Ching, Hexagram Qian (Modesty)"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天机星动，直觉可信赖",
+        "en": "The Heavenly Mechanism star stirs; trust your intuition"
+      },
+      "interpretation": {
+        "zh": "知几其神乎。——《易经·系辞》",
+        "en": "To know the seeds of things, is that not divine? — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "雷风相薄，变革将至",
+        "en": "Thunder and wind press upon each other; transformation is at hand"
+      },
+      "interpretation": {
+        "zh": "天地革而四时成。——《易经·革卦》",
+        "en": "Heaven and Earth undergo change, and the four seasons are completed. — I Ching, Hexagram Ge"
+      }
+    },
+    {
+      "answer": {
+        "zh": "水火既济，功成圆满",
+        "en": "Water and fire are in harmony; achievements reach completion"
+      },
+      "interpretation": {
+        "zh": "既济，亨小，利贞，初吉终乱。——《易经·既济卦》",
+        "en": "After completion, small matters succeed; furthering through perseverance. Initially fortunate, eventually disordered. — I Ching, Hexagram Ji Ji"
+      }
+    },
+    {
+      "answer": {
+        "zh": "山泽通气，贵人暗合",
+        "en": "Mountain and marsh share their qi; noble ones secretly align"
+      },
+      "interpretation": {
+        "zh": "山泽通气，然后能变化。——《易经·说卦》",
+        "en": "Mountain and marsh exchange qi; only then can transformation occur. — I Ching, Discussion of Trigrams"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命犯天煞，需以善化之",
+        "en": "Destiny encounters the Heavenly煞; transform it through goodness"
+      },
+      "interpretation": {
+        "zh": "积善之家，必有余庆。——《易经·坤卦·文言》",
+        "en": "A family that accumulates goodness will surely have surplus blessings. — I Ching, Kun Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "星宿照命，此乃天定",
+        "en": "Constellations shine upon your destiny; this is heaven's design"
+      },
+      "interpretation": {
+        "zh": "天垂象，见吉凶。——《易经·系辞》",
+        "en": "Heaven displays signs, revealing good fortune and misfortune. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "乾坤交合，大事可期",
+        "en": "Heaven and Earth unite; great things can be expected"
+      },
+      "interpretation": {
+        "zh": "天地交而万物通也。——《易经·泰卦》",
+        "en": "Heaven and Earth unite, and all things flow in communication. — I Ching, Hexagram Tai"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命带天乙，遇难呈祥",
+        "en": "Destiny carries the Heavenly Yi star; troubles transform into blessings"
+      },
+      "interpretation": {
+        "zh": "鼎，元吉，亨。——《易经·鼎卦》",
+        "en": "The caldron, supreme good fortune, success. — I Ching, Hexagram Ding"
+      }
+    },
+    {
+      "answer": {
+        "zh": "暗合天心，自有妙用",
+        "en": "Secretly aligned with Heaven's heart; there is wondrous purpose"
+      },
+      "interpretation": {
+        "zh": "神而明之，存乎其人。——《易经·系辞》",
+        "en": "Divine clarity resides within the person. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "地支藏干，玄机暗藏",
+        "en": "The earthly branches conceal heavenly stems; hidden mechanisms lie within"
+      },
+      "interpretation": {
+        "zh": "探赜索隐，钩深致远。——《易经·系辞》",
+        "en": "Explore the mysterious and seek the hidden; draw out the deep and reach the distant. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "五行相生，顺势而为",
+        "en": "The five elements generate each other; act in accordance with the flow"
+      },
+      "interpretation": {
+        "zh": "水曰润下，火曰炎上，木曰曲直，金曰从革，土爰稼穑。——《尚书·洪范》",
+        "en": "Water moistens downward, fire flames upward, wood bends and straightens, metal yields and transforms, earth grows crops. — Book of Documents"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天合地合，姻缘天成",
+        "en": "Heavenly and earthly unions; marriage is heaven-made"
+      },
+      "interpretation": {
+        "zh": "有天地然后有万物，有万物然后有男女。——《易经·序卦》",
+        "en": "There is Heaven and Earth, then all things; there are all things, then male and female. — I Ching, Sequence of Hexagrams"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命中带魁罡，性格刚毅",
+        "en": "Destiny carries the Kui Gang star; your character is resolute"
+      },
+      "interpretation": {
+        "zh": "大过，栋桡，利有攸往，亨。——《易经·大过卦》",
+        "en": "Preponderance of the great, the ridgepole sags; beneficial to have somewhere to go, success. — I Ching, Hexagram Da Guo"
+      }
+    },
+    {
+      "answer": {
+        "zh": "青龙回首，旧事重提",
+        "en": "The Azure Dragon turns its head; old matters resurface"
+      },
+      "interpretation": {
+        "zh": "无平不陂，无往不复，艰贞无咎。——《易经·泰卦》",
+        "en": "No level without slope, no departure without return; perseverance in difficulty brings no blame. — I Ching, Hexagram Tai"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命犯桃花，情海波涛",
+        "en": "Destiny encounters the Peach Blossom; waves surge in the sea of love"
+      },
+      "interpretation": {
+        "zh": "渐，女归吉，利贞。——《易经·渐卦》",
+        "en": "Development, a maiden marries, good fortune, beneficial to persevere. — I Ching, Hexagram Jian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "风水中正，格局已成",
+        "en": "Feng shui is balanced; the pattern is established"
+      },
+      "interpretation": {
+        "zh": "正其谊不谋其利，明其道不计其功。——《汉书》",
+        "en": "Uphold righteousness without seeking profit; illuminate the Tao without calculating gain. — Book of Han"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天医星照，病厄自消",
+        "en": "The Heavenly Physician star shines; illness naturally dissolves"
+      },
+      "interpretation": {
+        "zh": "损，有孚，元吉，无咎。——《易经·损卦》",
+        "en": "Decrease with sincerity, supreme good fortune, no blame. — I Ching, Hexagram Sun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命带羊刃，锋芒毕露",
+        "en": "Destiny carries the Yang Blade; your edge is fully revealed"
+      },
+      "interpretation": {
+        "zh": "大壮，利贞。——《易经·大壮卦》",
+        "en": "Great power, beneficial to persevere. — I Ching, Hexagram Da Zhuang"
+      }
+    },
+    {
+      "answer": {
+        "zh": "紫微高照，福星临门",
+        "en": "Ziwei shines from above; the fortune star arrives at the door"
+      },
+      "interpretation": {
+        "zh": "吉事有祥。——《易经·系辞》",
+        "en": "Auspicious events have their omens. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命带红鸾，姻缘将至",
+        "en": "Destiny carries the Red Phoenix star; marriage fate approaches"
+      },
+      "interpretation": {
+        "zh": "男女正，天地之大义也。——《易经·家人卦》",
+        "en": "Proper relations between male and female are the great righteousness of Heaven and Earth. — I Ching, Hexagram Jia Ren"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天狗食月，暂时的遮蔽",
+        "en": "The heavenly dog devours the moon; a temporary eclipse"
+      },
+      "interpretation": {
+        "zh": "明入地中，明夷。——《易经·明夷卦》",
+        "en": "Light enters the earth; darkening of the light. — I Ching, Hexagram Ming Yi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "三合局成，贵人相助",
+        "en": "The triple harmony formation is complete; benefactors extend help"
+      },
+      "interpretation": {
+        "zh": "三人行则损一人，一人行则得其友。——《易经·损卦》",
+        "en": "When three walk together, one is lost; when one walks alone, a friend is found. — I Ching, Hexagram Sun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命带空亡，需充实内在",
+        "en": "Destiny carries emptiness; you must enrich your inner self"
+      },
+      "interpretation": {
+        "zh": "虚而不屈，动而愈出。——《道德经》",
+        "en": "Empty yet inexhaustible, in motion it produces ever more. — Tao Te Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "星辰暗合，机缘已至",
+        "en": "Stars secretly align; the moment of opportunity has come"
+      },
+      "interpretation": {
+        "zh": "几者动之微，吉之先见者也。——《易经·系辞》",
+        "en": "Seeds are the subtle beginnings of movement, the first signs of good fortune. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "玉堂贵人，逢凶化吉",
+        "en": "The Jade Hall noble one transforms misfortune into fortune"
+      },
+      "interpretation": {
+        "zh": "贵而无位，高而无民，贤人在下位而无辅。——《易经·乾卦·文言》",
+        "en": "Honored but without position, elevated but without people, the wise one below without support. — I Ching, Qian Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命逢将星，领袖气质",
+        "en": "Destiny meets the General star; a leader's aura"
+      },
+      "interpretation": {
+        "zh": "师贞，丈人吉，无咎。——《易经·师卦》",
+        "en": "The army perseveres; the elder brings good fortune, no blame. — I Ching, Hexagram Shi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "地支六合，万事和谐",
+        "en": "The earthly branches form six harmonies; all matters are balanced"
+      },
+      "interpretation": {
+        "zh": "保合大和，乃利贞。——《易经·乾卦》",
+        "en": "Maintaining the great harmony is beneficial and steadfast. — I Ching, Hexagram Qian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命犯勾陈，事有羁绊",
+        "en": "Destiny encounters the Hooked Chen; matters are entangled"
+      },
+      "interpretation": {
+        "zh": "屯，元亨利贞，勿用有攸往，利建侯。——《易经·屯卦》",
+        "en": "Difficulty at the beginning, supreme success through perseverance; do not advance, beneficial to establish lords. — I Ching, Hexagram Zhun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天道酬勤，功不唐捐",
+        "en": "Heaven rewards diligence; no effort is in vain"
+      },
+      "interpretation": {
+        "zh": "天行健，君子以自强不息。——《易经》",
+        "en": "As Heaven maintains vigor through movements, a gentleman should constantly strive for self-improvement. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命带禄存，衣食无忧",
+        "en": "Destiny carries the Store of Fortune star; food and clothing are secure"
+      },
+      "interpretation": {
+        "zh": "井，改邑不改井，无丧无得。——《易经·井卦》",
+        "en": "The well, the town may change but the well remains; neither loss nor gain. — I Ching, Hexagram Jing"
+      }
+    },
+    {
+      "answer": {
+        "zh": "先天之数已定，后天可改",
+        "en": "Pre-heaven numbers are fixed; post-heaven can be changed"
+      },
+      "interpretation": {
+        "zh": "易，穷则变，变则通。——《易经·系辞》",
+        "en": "In change, when exhausted, transform; when transformed, pass through. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "沐浴星光，灵性增长",
+        "en": "Bathe in starlight; spiritual awareness grows"
+      },
+      "interpretation": {
+        "zh": "洗心曰退藏于密。——《易经·系辞》",
+        "en": "Cleansing the mind is called retreating into hidden depths. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命逢天马，远方有利",
+        "en": "Destiny meets the Heavenly Horse; distant places bring benefit"
+      },
+      "interpretation": {
+        "zh": "旅，小亨，旅贞吉。——《易经·旅卦》",
+        "en": "The wanderer, small success, the wanderer perseveres in good fortune. — I Ching, Hexagram Lu"
+      }
+    },
+    {
+      "answer": {
+        "zh": "六冲之地，变则通矣",
+        "en": "In a place of six clashes, change brings passage"
+      },
+      "interpretation": {
+        "zh": "革，已日乃孚，元亨利贞，悔亡。——《易经·革卦》",
+        "en": "Revolution, on your own day you are believed, supreme success, regret vanishes. — I Ching, Hexagram Ge"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命带偏财，意外之喜",
+        "en": "Destiny carries indirect wealth; unexpected joys"
+      },
+      "interpretation": {
+        "zh": "大有，元亨。——《易经·大有卦》",
+        "en": "Possession in great measure, supreme success. — I Ching, Hexagram Da You"
+      }
+    },
+    {
+      "answer": {
+        "zh": "四柱有根，根基稳固",
+        "en": "The four pillars have roots; the foundation is solid"
+      },
+      "interpretation": {
+        "zh": "根深则叶茂。——民间谚语",
+        "en": "When the roots are deep, the leaves flourish. — Chinese Folk Proverb"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天机微露，静观其变",
+        "en": "Heaven's mechanism subtly reveals itself; observe quietly and await change"
+      },
+      "interpretation": {
+        "zh": "知变化之道者，其知神之所为乎。——《易经·系辞》",
+        "en": "One who knows the way of change, does one not know the workings of the divine? — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "泽山咸感，心意相通",
+        "en": "Lake upon mountain brings mutual influence; hearts connect"
+      },
+      "interpretation": {
+        "zh": "咸，感也。柔上而刚下，二气感应以相与。——《易经·咸卦·彖》",
+        "en": "Xian means influence. The gentle above and the firm below, the two energies resonate and join. — I Ching, Hexagram Xian, Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "遁世无闷，等待时机",
+        "en": "Retire from the world without distress; await the right moment"
+      },
+      "interpretation": {
+        "zh": "遁，亨，小利贞。——《易经·遁卦》",
+        "en": "Retreat, success, small advantage in perseverance. — I Ching, Hexagram Dun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "雷声先至，贵人发声",
+        "en": "Thunder sounds first; a noble person will speak up"
+      },
+      "interpretation": {
+        "zh": "震，亨。震来虩虩，笑言哑哑。——《易经·震卦》",
+        "en": "Arousing, success. Thunder arrives with fear, then laughter and speech. — I Ching, Hexagram Zhen"
+      }
+    },
+    {
+      "answer": {
+        "zh": "巽风徐来，柔顺得吉",
+        "en": "The gentle wind of Xun arrives; yielding brings good fortune"
+      },
+      "interpretation": {
+        "zh": "巽，小亨，利有攸往，利见大人。——《易经·巽卦》",
+        "en": "Gentle penetration, small success, beneficial to have somewhere to go, beneficial to see a great person. — I Ching, Hexagram Xun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "艮山止静，宜守不宜进",
+        "en": "The mountain of Gen brings stillness; guard rather than advance"
+      },
+      "interpretation": {
+        "zh": "艮其背，不获其身；行其庭，不见其人，无咎。——《易经·艮卦》",
+        "en": "Keeping still the back, one does not see the body; walking in the courtyard, one does not see the person, no blame. — I Ching, Hexagram Gen"
+      }
+    },
+    {
+      "answer": {
+        "zh": "蛊象初现，须除旧弊",
+        "en": "The hexagram of Gu appears; old corruptions must be removed"
+      },
+      "interpretation": {
+        "zh": "蛊，元亨，利涉大川。——《易经·蛊卦》",
+        "en": "Correction, supreme success, beneficial to cross the great river. — I Ching, Hexagram Gu"
+      }
+    },
+    {
+      "answer": {
+        "zh": "临卦昭示，大势已至",
+        "en": "The hexagram Lin reveals; the great tide has arrived"
+      },
+      "interpretation": {
+        "zh": "临，元亨利贞，至于八月有凶。——《易经·临卦》",
+        "en": "Approach, supreme success, furthering through perseverance. By the eighth month, there will be misfortune. — I Ching, Hexagram Lin"
+      }
+    },
+    {
+      "answer": {
+        "zh": "观天之道，执天之行",
+        "en": "Observe the way of Heaven; grasp the actions of Heaven"
+      },
+      "interpretation": {
+        "zh": "观，盥而不荐，有孚颙若。——《易经·观卦》",
+        "en": "Contemplation, the ablution has been performed but the offering has not, sincerity and reverence. — I Ching, Hexagram Guan"
+      }
+    },
+    {
+      "answer": {
+        "zh": "噬嗑之象，障碍可破",
+        "en": "The hexagram Shihe appears; obstacles can be broken"
+      },
+      "interpretation": {
+        "zh": "噬嗑，亨，利用狱。——《易经·噬嗑卦》",
+        "en": "Biting through, success, beneficial for legal matters. — I Ching, Hexagram Shihe"
+      }
+    },
+    {
+      "answer": {
+        "zh": "贲饰之象，文质彬彬",
+        "en": "The hexagram Bi appears; elegance and substance are in balance"
+      },
+      "interpretation": {
+        "zh": "贲，亨，小利有攸往。——《易经·贲卦》",
+        "en": "Grace, success, small advantage in having somewhere to go. — I Ching, Hexagram Bi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "复卦之兆，一阳来复",
+        "en": "The hexagram Fu signals; one yang line returns"
+      },
+      "interpretation": {
+        "zh": "复，亨，出入无疾，朋来无咎。——《易经·复卦》",
+        "en": "Return, success, going out and coming in without haste, friends arrive without blame. — I Ching, Hexagram Fu"
+      }
+    },
+    {
+      "answer": {
+        "zh": "颐养之道，正位居体",
+        "en": "The way of nourishment; occupy the correct position with proper form"
+      },
+      "interpretation": {
+        "zh": "颐，贞吉，观颐，自求口实。——《易经·颐卦》",
+        "en": "Nourishment, perseverance brings good fortune. Observe nourishment, seek sustenance for yourself. — I Ching, Hexagram Yi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "坎水之险，需待时机",
+        "en": "The danger of Kan water; wait for the right moment"
+      },
+      "interpretation": {
+        "zh": "习坎，有孚，维心亨，行有尚。——《易经·坎卦》",
+        "en": "The abysmal water repeated, sincerity, only the heart can penetrate, action brings esteem. — I Ching, Hexagram Kan"
+      }
+    },
+    {
+      "answer": {
+        "zh": "离火之明，前途光明",
+        "en": "The brightness of Li fire; the path ahead is luminous"
+      },
+      "interpretation": {
+        "zh": "离，利贞，亨，畜牝牛，吉。——《易经·离卦》",
+        "en": "The clinging fire, beneficial to persevere, success, rearing the cow brings good fortune. — I Ching, Hexagram Li"
+      }
+    },
+    {
+      "answer": {
+        "zh": "节度有方，过犹不及",
+        "en": "Measure with proper restraint; exceeding is as bad as falling short"
+      },
+      "interpretation": {
+        "zh": "节，亨，苦节不可贞。——《易经·节卦》",
+        "en": "Limitation, success, but bitter limitation cannot be persevered in. — I Ching, Hexagram Jie"
+      }
+    },
+    {
+      "answer": {
+        "zh": "中孚之信，诚感天地",
+        "en": "The sincerity of Zhong Fu; honesty moves Heaven and Earth"
+      },
+      "interpretation": {
+        "zh": "中孚，豚鱼吉，利涉大川，利贞。——《易经·中孚卦》",
+        "en": "Inner truth, even the pig and fish bring good fortune, beneficial to cross the great river, beneficial to persevere. — I Ching, Hexagram Zhong Fu"
+      }
+    },
+    {
+      "answer": {
+        "zh": "小过之象，行事宜谦",
+        "en": "The hexagram Xiao Guo appears; act with humility"
+      },
+      "interpretation": {
+        "zh": "小过，亨，利贞，可小事，不可大事。——《易经·小过卦》",
+        "en": "Preponderance of the small, success, beneficial to persevere, small matters can be done, great matters cannot. — I Ching, Hexagram Xiao Guo"
+      }
+    },
+    {
+      "answer": {
+        "zh": "归妹之象，循序而进",
+        "en": "The hexagram Gui Mei appears; proceed step by step"
+      },
+      "interpretation": {
+        "zh": "归妹，征凶，无攸利。——《易经·归妹卦》",
+        "en": "The marrying maiden, advancing brings misfortune, nothing is beneficial. — I Ching, Hexagram Gui Mei"
+      }
+    },
+    {
+      "answer": {
+        "zh": "丰卦之盛，光明正大",
+        "en": "The fullness of hexagram Feng; bright and upright"
+      },
+      "interpretation": {
+        "zh": "丰，亨，王假之，勿忧，宜日中。——《易经·丰卦》",
+        "en": "Abundance, success, the king approaches, do not be anxious, the time is midday. — I Ching, Hexagram Feng"
+      }
+    },
+    {
+      "answer": {
+        "zh": "涣散之象，须聚人心",
+        "en": "The hexagram Huan signals dispersal; hearts must be gathered"
+      },
+      "interpretation": {
+        "zh": "涣，亨，王假有庙，利涉大川，利贞。——《易经·涣卦》",
+        "en": "Dispersion, success, the king approaches the temple, beneficial to cross the great river, beneficial to persevere. — I Ching, Hexagram Huan"
+      }
+    },
+    {
+      "answer": {
+        "zh": "升阶而上，循序渐进",
+        "en": "Ascend the steps one by one; advance in proper sequence"
+      },
+      "interpretation": {
+        "zh": "升，元亨，用见大人，勿恤，南征吉。——《易经·升卦》",
+        "en": "Pushing upward, supreme success, see the great person, do not grieve, southward march brings good fortune. — I Ching, Hexagram Sheng"
+      }
+    },
+    {
+      "answer": {
+        "zh": "萃聚之力，众志成城",
+        "en": "The power of gathering; united wills form a fortress"
+      },
+      "interpretation": {
+        "zh": "萃，亨，王假有庙，利见大人，亨，利贞。——《易经·萃卦》",
+        "en": "Gathering together, success, the king approaches the temple, beneficial to see the great person, success, beneficial to persevere. — I Ching, Hexagram Cui"
+      }
+    },
+    {
+      "answer": {
+        "zh": "晋卦明进，如日方升",
+        "en": "The hexagram Jin signals progress; like the sun rising"
+      },
+      "interpretation": {
+        "zh": "晋，康侯用锡马蕃庶，昼日三接。——《易经·晋卦》",
+        "en": "Progress, the prince is blessed with horses in abundance, received three times in a single day. — I Ching, Hexagram Jin"
+      }
+    },
+    {
+      "answer": {
+        "zh": "明夷之暗，韬光养德",
+        "en": "The darkness of Ming Yi; conceal your light and cultivate virtue"
+      },
+      "interpretation": {
+        "zh": "明夷，利艰贞。——《易经·明夷卦》",
+        "en": "Darkening of the light, beneficial to persevere in difficulty. — I Ching, Hexagram Ming Yi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "家人之象，内修齐家",
+        "en": "The hexagram Jia Ren appears; cultivate order within the family"
+      },
+      "interpretation": {
+        "zh": "家人，利女贞。——《易经·家人卦》",
+        "en": "The family, beneficial for the woman to persevere. — I Ching, Hexagram Jia Ren"
+      }
+    },
+    {
+      "answer": {
+        "zh": "蹇难在前，宜修德行",
+        "en": "Obstruction lies ahead; cultivate virtue and conduct"
+      },
+      "interpretation": {
+        "zh": "蹇，利西南，不利东北，利见大人，贞吉。——《易经·蹇卦》",
+        "en": "Obstruction, beneficial in the southwest, not beneficial in the northeast, beneficial to see the great person, perseverance brings good fortune. — I Ching, Hexagram Jian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "解卦释然，冰消瓦解",
+        "en": "The hexagram Jie brings release; ice melts and tiles crumble"
+      },
+      "interpretation": {
+        "zh": "解，利西南，无所往，其来复吉。——《易经·解卦》",
+        "en": "Deliverance, beneficial in the southwest, if there is nowhere to go, returning brings good fortune. — I Ching, Hexagram Jie"
+      }
+    },
+    {
+      "answer": {
+        "zh": "损益之道，先损后益",
+        "en": "The way of decrease and increase; first decrease, then increase"
+      },
+      "interpretation": {
+        "zh": "损，有孚，元吉，无咎，可贞，利有攸往。——《易经·损卦》",
+        "en": "Decrease with sincerity, supreme good fortune, no blame, possible perseverance, beneficial to have somewhere to go. — I Ching, Hexagram Sun"
+      }
+    },
+    {
+      "answer": {
+        "zh": "益卦之喜，天施地生",
+        "en": "The joy of hexagram Yi; Heaven bestows and Earth produces"
+      },
+      "interpretation": {
+        "zh": "益，利有攸往，利涉大川。——《易经·益卦》",
+        "en": "Increase, beneficial to have somewhere to go, beneficial to cross the great river. — I Ching, Hexagram Yi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "夬卦刚决，果断行事",
+        "en": "The hexagram Kuai shows resolute judgment; act decisively"
+      },
+      "interpretation": {
+        "zh": "夬，扬于王庭，孚号，有厉。——《易经·夬卦》",
+        "en": "Breakthrough, proclamation in the royal court, sincere warning, there is danger. — I Ching, Hexagram Guai"
+      }
+    },
+    {
+      "answer": {
+        "zh": "姤卦之遇，不期而会",
+        "en": "The hexagram Gou signals encounter; meeting unexpectedly"
+      },
+      "interpretation": {
+        "zh": "姤，女壮，勿用取女。——《易经·姤卦》",
+        "en": "Coming to meet, the maiden is powerful, do not marry her. — I Ching, Hexagram Gou"
+      }
+    },
+    {
+      "answer": {
+        "zh": "井泉不竭，养人无穷",
+        "en": "The wellspring never runs dry; nourishing without end"
+      },
+      "interpretation": {
+        "zh": "井，改邑不改井，无丧无得，往来井井。——《易经·井卦》",
+        "en": "The well, the town may change but the well remains, neither loss nor gain, people come and go drawing from the well. — I Ching, Hexagram Jing"
+      }
+    },
+    {
+      "answer": {
+        "zh": "鼎新革故，万象更新",
+        "en": "Renew the cauldron and discard the old; all things are made new"
+      },
+      "interpretation": {
+        "zh": "鼎，元吉，亨。——《易经·鼎卦》",
+        "en": "The caldron, supreme good fortune, success. — I Ching, Hexagram Ding"
+      }
+    },
+    {
+      "answer": {
+        "zh": "渐入佳境，步步为营",
+        "en": "Gradually entering the best state; step by step with care"
+      },
+      "interpretation": {
+        "zh": "渐，女归吉，利贞。——《易经·渐卦》",
+        "en": "Development, a maiden marries, good fortune, beneficial to persevere. — I Ching, Hexagram Jian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "巽顺而入，以柔克刚",
+        "en": "Gentle and penetrating; use softness to overcome hardness"
+      },
+      "interpretation": {
+        "zh": "柔顺利贞。——《易经·坤卦·文言》",
+        "en": "Yielding and gentle, beneficial to persevere. — I Ching, Kun Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "兑悦之象，心怀喜悦",
+        "en": "The hexagram Dui brings joy; keep joy in your heart"
+      },
+      "interpretation": {
+        "zh": "兑，亨，利贞。——《易经·兑卦》",
+        "en": "Joy, success, beneficial to persevere. — I Ching, Hexagram Dui"
+      }
+    },
+    {
+      "answer": {
+        "zh": "涣而后聚，破而后立",
+        "en": "Disperse then gather; break then establish"
+      },
+      "interpretation": {
+        "zh": "穷则变，变则通，通则久。——《易经·系辞》",
+        "en": "When exhausted, change; when changed, pass through; when passing through, endure. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "八卦相荡，阴阳相推",
+        "en": "The eight trigrams interact; yin and yang push each other forward"
+      },
+      "interpretation": {
+        "zh": "刚柔相摩，八卦相荡。——《易经·系辞》",
+        "en": "The firm and the gentle rub against each other; the eight trigrams interact. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天行有常，不为尧存",
+        "en": "Heaven's way has constancy; it does not exist for a sage"
+      },
+      "interpretation": {
+        "zh": "天行有常，不为尧存，不为桀亡。——《荀子·天论》",
+        "en": "Heaven's way has constancy, it does not exist for Yao, nor perish for Jie. — Xunzi, Discourse on Heaven"
+      }
+    },
+    {
+      "answer": {
+        "zh": "五行相克，制中有化",
+        "en": "The five elements overcome each other; within control lies transformation"
+      },
+      "interpretation": {
+        "zh": "木得金而伐，火得水而灭，土得木而达。——《黄帝内经·素问》",
+        "en": "Wood is cut by metal, fire is extinguished by water, earth is penetrated by wood. — Yellow Emperor's Inner Canon, Basic Questions"
+      }
+    },
+    {
+      "answer": {
+        "zh": "奇门遁甲，暗中得机",
+        "en": "Through Qi Men Dun Jia, the hidden opportunity is grasped"
+      },
+      "interpretation": {
+        "zh": "机不可失，时不再来。——《新唐书》",
+        "en": "The opportunity must not be lost; the time will not come again. — New Book of Tang"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命中有劫，化劫为缘",
+        "en": "Destiny holds a tribulation; transform the tribulation into destiny"
+      },
+      "interpretation": {
+        "zh": "祸兮福之所倚，福兮祸之所伏。——《道德经》",
+        "en": "Misfortune is what fortune depends upon; fortune is where misfortune hides. — Tao Te Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "子午相冲，动荡之中寻平衡",
+        "en": "Zi and Wu clash; seek balance within turbulence"
+      },
+      "interpretation": {
+        "zh": "动静相因，刚柔相济。——《黄帝内经·素问》",
+        "en": "Movement and stillness depend on each other; hardness and gentleness complement each other. — Yellow Emperor's Inner Canon, Basic Questions"
+      }
+    },
+    {
+      "answer": {
+        "zh": "太玄之数，吉凶参半",
+        "en": "The numbers of the Supreme Mystery; fortune and misfortune are equally balanced"
+      },
+      "interpretation": {
+        "zh": "吉凶者，失得之象也。——《易经·系辞》",
+        "en": "Good fortune and misfortune are the images of loss and gain. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天元一气，万物同源",
+        "en": "Heaven's origin is one qi; all things share the same source"
+      },
+      "interpretation": {
+        "zh": "通天下一气耳。——《庄子》",
+        "en": "The whole universe is but one qi. — Zhuangzi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "六壬神课，先凶后吉",
+        "en": "The Six Ren divination shows misfortune first, then good fortune"
+      },
+      "interpretation": {
+        "zh": "先否后喜。——《易经·否卦》",
+        "en": "First standstill, then joy. — I Ching, Hexagram Pi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "甲子轮回，新的开始",
+        "en": "The Jia Zi cycle turns; a new beginning"
+      },
+      "interpretation": {
+        "zh": "终则有始，天行也。——《易经·蛊卦·彖》",
+        "en": "When the end is reached, a new beginning comes; this is the way of Heaven. — I Ching, Hexagram Gu, Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天盘地盘，上下呼应",
+        "en": "The heavenly plate and earthly plate resonate above and below"
+      },
+      "interpretation": {
+        "zh": "本乎天者亲上，本乎地者亲下。——《易经·乾卦·文言》",
+        "en": "That which is rooted in Heaven inclines upward; that which is rooted in Earth inclines downward. — I Ching, Qian Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "玄牝之门，天地之根",
+        "en": "The gateway of the mysterious female; the root of Heaven and Earth"
+      },
+      "interpretation": {
+        "zh": "谷神不死，是谓玄牝，玄牝之门，是谓天地根。——《道德经》",
+        "en": "The spirit of the valley never dies; it is called the mysterious female. The gateway of the mysterious female is called the root of Heaven and Earth. — Tao Te Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "乾坤六子，各司其职",
+        "en": "The six children of Qian and Kun; each has its appointed role"
+      },
+      "interpretation": {
+        "zh": "乾，天也，故称乎父；坤，地也，故称乎母。——《易经·说卦》",
+        "en": "Qian is Heaven, thus called father; Kun is Earth, thus called mother. — I Ching, Discussion of Trigrams"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天干地支，时空交错",
+        "en": "Heavenly stems and earthly branches; time and space intertwine"
+      },
+      "interpretation": {
+        "zh": "天有好生之德。——《尚书》",
+        "en": "Heaven has the virtue of loving all life. — Book of Documents"
+      }
+    },
+    {
+      "answer": {
+        "zh": "二十四山，方位有利",
+        "en": "The twenty-four mountains; a favorable direction"
+      },
+      "interpretation": {
+        "zh": "方以类聚，物以群分，吉凶生矣。——《易经·系辞》",
+        "en": "Things of like kind gather together; beings are divided into groups; from this, fortune and misfortune arise. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "九星飞泊，气运流转",
+        "en": "The nine stars fly and alight; qi and fortune circulate"
+      },
+      "interpretation": {
+        "zh": "变化不测之谓神。——《易经·系辞》",
+        "en": "What changes unpredictably is called divine. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "八字五行，调和为贵",
+        "en": "The five elements in your birth chart; harmony is most precious"
+      },
+      "interpretation": {
+        "zh": "和实生物，同则不继。——《国语·郑语》",
+        "en": "Harmony generates things; sameness does not continue. — Discourses of the States"
+      }
+    },
+    {
+      "answer": {
+        "zh": "大衍之数，五十有五",
+        "en": "The number of the great expansion is fifty-five"
+      },
+      "interpretation": {
+        "zh": "大衍之数五十，其用四十有九。——《易经·系辞》",
+        "en": "The number of the great expansion is fifty; its use is forty-nine. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命宫天府，富贵双全",
+        "en": "The life palace holds the Heavenly Treasury; wealth and honor are complete"
+      },
+      "interpretation": {
+        "zh": "富有之谓大业。——《易经·系辞》",
+        "en": "Abundance is called great enterprise. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天梁星照，逢凶化吉",
+        "en": "The Heavenly Beam star shines; misfortune is transformed into fortune"
+      },
+      "interpretation": {
+        "zh": "天道福善祸淫。——《尚书·汤诰》",
+        "en": "The way of Heaven blesses the good and punishes the wicked. — Book of Documents"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命犯孤星，独修其德",
+        "en": "Destiny encounters the lone star; cultivate virtue alone"
+      },
+      "interpretation": {
+        "zh": "独学而无友，则孤陋而寡闻。——《礼记·学记》",
+        "en": "Studying alone without friends leads to narrow views and limited knowledge. — Book of Rites, Record of Education"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天同星动，和顺安康",
+        "en": "The Heavenly Harmony star moves; peace and health follow"
+      },
+      "interpretation": {
+        "zh": "和气致祥。——民间谚语",
+        "en": "Harmonious energy brings auspiciousness. — Chinese Folk Proverb"
+      }
+    },
+    {
+      "answer": {
+        "zh": "七杀星临，破而后立",
+        "en": "The Seven Killings star arrives; break then establish"
+      },
+      "interpretation": {
+        "zh": "置之死地而后生。——《孙子兵法》",
+        "en": "Place them in deadly peril and they will survive. — The Art of War"
+      }
+    },
+    {
+      "answer": {
+        "zh": "破军之象，破旧立新",
+        "en": "The Po Jun star signals; destroy the old and establish the new"
+      },
+      "interpretation": {
+        "zh": "革而去之，亦天之道也。——《易经·革卦·象》",
+        "en": "To reform and remove is also the way of Heaven. — I Ching, Hexagram Ge, Image"
+      }
+    },
+    {
+      "answer": {
+        "zh": "廉贞星照，守正不移",
+        "en": "The Lian Zhen star shines; hold firm to righteousness"
+      },
+      "interpretation": {
+        "zh": "贞，正也。——《易经》",
+        "en": "Perseverance means correctness. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "武曲星临，刚毅果决",
+        "en": "The Wu Qu star arrives; be resolute and decisive"
+      },
+      "interpretation": {
+        "zh": "刚健笃实辉光，日新其德。——《易经·大畜卦·彖》",
+        "en": "Firm, strong, sincere, and substantial with brilliance; daily renewing its virtue. — I Ching, Hexagram Da Xu, Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "贪狼之象，欲望须节制",
+        "en": "The Tan Lang star signals; desires must be restrained"
+      },
+      "interpretation": {
+        "zh": "知足不辱，知止不殆。——《道德经》",
+        "en": "He who knows contentment suffers no disgrace; he who knows when to stop meets no danger. — Tao Te Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "巨门之象，口舌须防",
+        "en": "The Ju Men star signals; guard against verbal disputes"
+      },
+      "interpretation": {
+        "zh": "言行，君子之枢机。——《易经·系辞》",
+        "en": "Words and actions are the hinge and trigger of the superior person. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天相星照，辅佐得力",
+        "en": "The Heavenly Minister star shines; capable assistance is at hand"
+      },
+      "interpretation": {
+        "zh": "二人同心，其利断金。——《易经·系辞》",
+        "en": "When two people are of one mind, their sharpness can cut through metal. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "太阳星明，前途似锦",
+        "en": "The Sun star shines bright; the future is like brocade"
+      },
+      "interpretation": {
+        "zh": "大明终始，六位时成。——《易经·乾卦·彖》",
+        "en": "The great brightness begins and ends; the six positions are completed in their time. — I Ching, Hexagram Qian, Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "太阴星照，柔中有刚",
+        "en": "The Moon star shines; within gentleness there is strength"
+      },
+      "interpretation": {
+        "zh": "柔进而上行。——《易经·晋卦·彖》",
+        "en": "The gentle advances and moves upward. — I Ching, Hexagram Jin, Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命带天刑，自律修行",
+        "en": "Destiny carries the Heavenly Punishment star; discipline yourself through practice"
+      },
+      "interpretation": {
+        "zh": "君子以慎刑罚。——《易经·旅卦·象》",
+        "en": "The superior person is careful with punishments. — I Ching, Hexagram Lu, Image"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天姚星动，人际和谐",
+        "en": "The Heavenly Yao star moves; interpersonal harmony is favorable"
+      },
+      "interpretation": {
+        "zh": "同声相应，同气相求。——《易经·乾卦·文言》",
+        "en": "Similar voices resonate; similar energies seek each other. — I Ching, Qian Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "劫煞入命，谨慎行事",
+        "en": "The Robbery Sha enters your destiny; act with caution"
+      },
+      "interpretation": {
+        "zh": "君子以恐惧修省。——《易经·震卦·象》",
+        "en": "The superior person is fearful and cultivates self-examination. — I Ching, Hexagram Zhen, Image"
+      }
+    },
+    {
+      "answer": {
+        "zh": "文昌化科，名声远扬",
+        "en": "Wen Chang transforms to honor; fame spreads far and wide"
+      },
+      "interpretation": {
+        "zh": "君子以立不易方。——《易经·恒卦·象》",
+        "en": "The superior person stands firm and does not change direction. — I Ching, Hexagram Heng, Image"
+      }
+    },
+    {
+      "answer": {
+        "zh": "文曲化忌，文书须慎",
+        "en": "Wen Qu transforms to obstacle; be careful with documents"
+      },
+      "interpretation": {
+        "zh": "修辞立其诚，所以居业也。——《易经·乾卦·文言》",
+        "en": "Cultivate words to establish sincerity, thereby maintaining one's enterprise. — I Ching, Qian Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命带天马，动中求财",
+        "en": "Destiny carries the Heavenly Horse; seek fortune through movement"
+      },
+      "interpretation": {
+        "zh": "君子以向晦入宴息。——《易经·随卦·象》",
+        "en": "The superior person rests at nightfall. — I Ching, Hexagram Sui, Image"
+      }
+    },
+    {
+      "answer": {
+        "zh": "红鸾星动，佳期已近",
+        "en": "The Red Phoenix star moves; a happy occasion draws near"
+      },
+      "interpretation": {
+        "zh": "有天地然后有万物，有万物然后有男女。——《易经·序卦》",
+        "en": "There is Heaven and Earth, then all things; there are all things, then male and female. — I Ching, Sequence of Hexagrams"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天哭星临，需调心志",
+        "en": "The Heavenly Weeping star arrives; adjust your state of mind"
+      },
+      "interpretation": {
+        "zh": "君子以惩忿窒欲。——《易经·损卦·象》",
+        "en": "The superior person restrains anger and curbs desires. — I Ching, Hexagram Sun, Image"
+      }
+    },
+    {
+      "answer": {
+        "zh": "龙德星照，福泽深厚",
+        "en": "The Dragon Virtue star shines; blessings run deep"
+      },
+      "interpretation": {
+        "zh": "龙德而隐者也。——《易经·乾卦·文言》",
+        "en": "One who possesses the virtue of the dragon yet remains hidden. — I Ching, Qian Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "凤阁星临，才艺超群",
+        "en": "The Phoenix Pavilion star arrives; talent surpasses all others"
+      },
+      "interpretation": {
+        "zh": "君子以虚受人。——《易经·咸卦·象》",
+        "en": "The superior person receives others with an open mind. — I Ching, Hexagram Xian, Image"
+      }
+    },
+    {
+      "answer": {
+        "zh": "解神星照，困难自解",
+        "en": "The Resolving Deity star shines; difficulties resolve themselves"
+      },
+      "interpretation": {
+        "zh": "天地解而雷雨作，雷雨作而百果草木皆甲坼。——《易经·解卦·彖》",
+        "en": "Heaven and Earth release, and thunder and rain arise; when thunder and rain arise, all fruits and plants burst from their shells. — I Ching, Hexagram Jie, Commentary"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天巫星临，灵性开启",
+        "en": "The Heavenly Shaman star arrives; spiritual awareness opens"
+      },
+      "interpretation": {
+        "zh": "精义入神，以致用也。——《易经·系辞》",
+        "en": "Entering into the spirit of the most refined, in order to put it to practical use. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天月星照，贵人暗助",
+        "en": "The Heavenly Moon star shines; a noble person secretly assists"
+      },
+      "interpretation": {
+        "zh": "天道无亲，常与善人。——《道德经》",
+        "en": "The way of Heaven has no favorites; it constantly associates with the good. — Tao Te Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天空星动，思维开阔",
+        "en": "The Heavenly Void star moves; thinking expands broadly"
+      },
+      "interpretation": {
+        "zh": "仰以观于天文，俯以察于地理。——《易经·系辞》",
+        "en": "Looking upward to observe the heavens, looking downward to examine the earth. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "旬空之象，虚中求实",
+        "en": "The emptiness of the ten-day cycle; seek substance within the void"
+      },
+      "interpretation": {
+        "zh": "大象无形。——《道德经》",
+        "en": "The great form has no shape. — Tao Te Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命逢华盖，独悟真谛",
+        "en": "Destiny meets the Canopy star; alone you grasp the true meaning"
+      },
+      "interpretation": {
+        "zh": "独与天地精神往来。——《庄子》",
+        "en": "Alone, one communes with the spirit of Heaven and Earth. — Zhuangzi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "长生十二神，气运初萌",
+        "en": "The twelve stages of life cycle; qi and fortune begin to sprout"
+      },
+      "interpretation": {
+        "zh": "万物始萌，理不可绝。——《黄帝内经·素问》",
+        "en": "When all things begin to sprout, the principle cannot be cut off. — Yellow Emperor's Inner Canon, Basic Questions"
+      }
+    },
+    {
+      "answer": {
+        "zh": "帝旺之气，势不可挡",
+        "en": "The qi of imperial prosperity; the momentum is unstoppable"
+      },
+      "interpretation": {
+        "zh": "飞龙在天，利见大人。——《易经·乾卦》",
+        "en": "The flying dragon is in the heavens; it benefits to see the great person. — I Ching, Hexagram Qian"
+      }
+    },
+    {
+      "answer": {
+        "zh": "墓库之象，韬光敛藏",
+        "en": "The tomb and treasury sign; conceal your light and store your energy"
+      },
+      "interpretation": {
+        "zh": "藏器于身，待时而动。——《易经·系辞》",
+        "en": "Store your instruments within yourself; wait for the right time to act. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "绝处逢生，转机已至",
+        "en": "Life emerges from the absolute end; the turning point has come"
+      },
+      "interpretation": {
+        "zh": "物极必反。——《易经》",
+        "en": "When things reach their extreme, they must return. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "胎养之道，蓄势待发",
+        "en": "The way of embryonic nourishment; gather strength and await the moment"
+      },
+      "interpretation": {
+        "zh": "万物皆有其时。——《黄帝内经·素问》",
+        "en": "All things have their appointed time. — Yellow Emperor's Inner Canon, Basic Questions"
+      }
+    },
+    {
+      "answer": {
+        "zh": "命犯五鬼，须以正克邪",
+        "en": "Destiny encounters the Five Ghosts; use righteousness to overcome evil"
+      },
+      "interpretation": {
+        "zh": "正胜邪则天清明。——《淮南子》",
+        "en": "When righteousness overcomes evil, the heavens become clear and bright. — Huainanzi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "三奇贵人，格局非凡",
+        "en": "The Three Marvels noble stars; an extraordinary pattern"
+      },
+      "interpretation": {
+        "zh": "出奇制胜。——《孙子兵法》",
+        "en": "Achieve victory through surprise. — The Art of War"
+      }
+    },
+    {
+      "answer": {
+        "zh": "十神相助，运途通达",
+        "en": "The Ten Gods lend assistance; the path of fortune opens wide"
+      },
+      "interpretation": {
+        "zh": "天与之，人与之。——《孟子》",
+        "en": "Heaven grants it, and people grant it. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "食神生财，才华变现",
+        "en": "The Eating God generates wealth; talent transforms into gain"
+      },
+      "interpretation": {
+        "zh": "备物致用，立成器以为天下利。——《易经·系辞》",
+        "en": "Prepare things for use, establish completed instruments to benefit the world. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "伤官配印，化忌为用",
+        "en": "The Hurting Officer paired with the Seal; transform obstacles into assets"
+      },
+      "interpretation": {
+        "zh": "尺蠖之屈，以求信也；龙蛇之蛰，以存身也。——《易经·系辞》",
+        "en": "The inchworm bends to extend itself; dragons and snakes hibernate to preserve themselves. — I Ching, Appended Explanations"
+      }
+    },
+    {
+      "answer": {
+        "zh": "正官护身，稳中有升",
+        "en": "The Proper Official protects you; steady rise within stability"
+      },
+      "interpretation": {
+        "zh": "君子以正位凝命。——《易经·鼎卦·象》",
+        "en": "The superior person maintains correct position and consolidates destiny. — I Ching, Hexagram Ding, Image"
+      }
+    },
+    {
+      "answer": {
+        "zh": "偏财入命，横财将至",
+        "en": "Indirect wealth enters the destiny; unexpected fortune approaches"
+      },
+      "interpretation": {
+        "zh": "不出户庭，无咎。——《易经·节卦》",
+        "en": "Not going out of the door and courtyard, no blame. — I Ching, Hexagram Jie"
+      }
+    },
+    {
+      "answer": {
+        "zh": "正印护身，逢凶化吉",
+        "en": "The Proper Seal protects; misfortune transforms into fortune"
+      },
+      "interpretation": {
+        "zh": "大吉大利。——《易经》",
+        "en": "Supreme good fortune and great profit. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "偏官带威，权威自显",
+        "en": "The Indirect Official carries authority; power manifests naturally"
+      },
+      "interpretation": {
+        "zh": "君子以制数度，议德行。——《易经·节卦·象》",
+        "en": "The superior person regulates measures and discusses moral conduct. — I Ching, Hexagram Jie, Image"
+      }
+    },
+    {
+      "answer": {
+        "zh": "比肩助力，同行共赢",
+        "en": "The Shoulder-to-Shoulder star brings help; walk together for mutual success"
+      },
+      "interpretation": {
+        "zh": "丽泽，兑，君子以朋友讲习。——《易经·兑卦·象》",
+        "en": "Two lakes joined together, joy; the superior person discusses and studies with friends. — I Ching, Hexagram Dui, Image"
+      }
+    }
+  ]
+}

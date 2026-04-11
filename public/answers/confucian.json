@@ -1,0 +1,2004 @@
+{
+  "answers": [
+    {
+      "answer": {
+        "zh": "以仁为本",
+        "en": "Let benevolence be your foundation"
+      },
+      "interpretation": {
+        "zh": "己所不欲，勿施于人。——《论语》",
+        "en": "Do not impose on others what you yourself do not desire. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "修身正己",
+        "en": "Cultivate yourself and correct your conduct"
+      },
+      "interpretation": {
+        "zh": "自天子以至于庶人，壹是皆以修身为本。——《大学》",
+        "en": "From the Son of Heaven down to the common people, all must consider the cultivation of the person the root of everything. — The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "学而不厌",
+        "en": "Learn without satiation"
+      },
+      "interpretation": {
+        "zh": "学而时习之，不亦说乎？——《论语》",
+        "en": "Is it not a pleasure to learn and to repeat or practice from time to time what one has learned? — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "以礼待人",
+        "en": "Treat others with propriety and respect"
+      },
+      "interpretation": {
+        "zh": "不学礼，无以立。——《论语》",
+        "en": "Without learning propriety, you will have no means to establish yourself. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "温故知新",
+        "en": "Review the old to understand the new"
+      },
+      "interpretation": {
+        "zh": "温故而知新，可以为师矣。——《论语》",
+        "en": "If a man keeps cherishing his old knowledge so as to continually acquire new, he may be a teacher of others. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "慎独其身",
+        "en": "Be watchful over yourself even when alone"
+      },
+      "interpretation": {
+        "zh": "莫见乎隐，莫显乎微，故君子慎其独也。——《中庸》",
+        "en": "There is nothing more visible than what is hidden, nothing more manifest than what is subtle. Therefore the superior man is watchful over himself when alone. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "执中而行",
+        "en": "Hold to the middle path and act accordingly"
+      },
+      "interpretation": {
+        "zh": "中庸其至矣乎！民鲜能久矣。——《中庸》",
+        "en": "Perfect is the Doctrine of the Mean! The people have long been rarely capable of it. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "义然后取",
+        "en": "Take only what is right and just"
+      },
+      "interpretation": {
+        "zh": "君子喻于义，小人喻于利。——《论语》",
+        "en": "The superior man understands what is right; the inferior man understands what is profitable. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "反求诸己",
+        "en": "Seek the cause within yourself"
+      },
+      "interpretation": {
+        "zh": "行有不得者，皆反求诸己。——《孟子》",
+        "en": "When your actions do not achieve their end, turn inward and seek the cause in yourself. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "知耻近勇",
+        "en": "To know shame is to be near courage"
+      },
+      "interpretation": {
+        "zh": "知耻近乎勇。——《中庸》",
+        "en": "To know shame is akin to courage. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "忠恕之道",
+        "en": "Follow the way of loyalty and reciprocity"
+      },
+      "interpretation": {
+        "zh": "夫子之道，忠恕而已矣。——《论语》",
+        "en": "The Way of the Master is none other than loyalty and reciprocity. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "和而不同",
+        "en": "Seek harmony without uniformity"
+      },
+      "interpretation": {
+        "zh": "君子和而不同，小人同而不和。——《论语》",
+        "en": "The superior man seeks harmony but not uniformity; the inferior man seeks uniformity but not harmony. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "见贤思齐",
+        "en": "When you see the worthy, strive to equal them"
+      },
+      "interpretation": {
+        "zh": "见贤思齐焉，见不贤而内自省也。——《论语》",
+        "en": "When we see men of worth, we should think of equaling them; when we see men of contrary character, we should turn inward and examine ourselves. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "讷言敏行",
+        "en": "Be slow in speech but earnest in conduct"
+      },
+      "interpretation": {
+        "zh": "君子欲讷于言而敏于行。——《论语》",
+        "en": "The superior man wishes to be slow in speech but earnest and prompt in conduct. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "持之以恒",
+        "en": "Persevere with unwavering constancy"
+      },
+      "interpretation": {
+        "zh": "人而无恒，不可以作巫医。——《论语》",
+        "en": "A man without constancy cannot even serve as a shaman or healer. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "尊师重道",
+        "en": "Honor the teacher and revere the Way"
+      },
+      "interpretation": {
+        "zh": "三人行，必有我师焉。——《论语》",
+        "en": "Among any three people walking together, there must be one who can be my teacher. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "顺应天命",
+        "en": "Align yourself with the Mandate of Heaven"
+      },
+      "interpretation": {
+        "zh": "不知命，无以为君子也。——《论语》",
+        "en": "Without understanding the Mandate of Heaven, one cannot become a superior man. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "行己有耻",
+        "en": "Conduct yourself with a sense of shame"
+      },
+      "interpretation": {
+        "zh": "行己有耻，使于四方，不辱君命，可谓士矣。——《论语》",
+        "en": "He who conducts himself with a sense of shame and does not disgrace his mission when sent to the four quarters of the world — such a man may be called a scholar. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "以德服人",
+        "en": "Win others through virtue, not force"
+      },
+      "interpretation": {
+        "zh": "以力服人者，非心服也；以德服人者，心悦而诚服矣。——《孟子》",
+        "en": "One who uses force to compel others does not win their hearts; one who uses virtue to lead others wins sincere and joyful submission. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "择善而从",
+        "en": "Choose the good and follow it"
+      },
+      "interpretation": {
+        "zh": "择善而固执之者也。——《中庸》",
+        "en": "Choose what is good and hold fast to it. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "孝悌为本",
+        "en": "Let filial piety and fraternal duty be your roots"
+      },
+      "interpretation": {
+        "zh": "孝弟也者，其为仁之本与！——《论语》",
+        "en": "Filial piety and fraternal duty — are they not the root of benevolence? — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "过则勿惮改",
+        "en": "When you err, do not hesitate to correct it"
+      },
+      "interpretation": {
+        "zh": "过而不改，是谓过矣。——《论语》",
+        "en": "To have faults and not correct them — this indeed is a fault. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "诚意正心",
+        "en": "Make your thoughts sincere and rectify your mind"
+      },
+      "interpretation": {
+        "zh": "欲正其心者，先诚其意。——《大学》",
+        "en": "Wishing to rectify their minds, they first sought to make their thoughts sincere. — The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "博文约礼",
+        "en": "Broaden your learning and restrain yourself with propriety"
+      },
+      "interpretation": {
+        "zh": "君子博学于文，约之以礼，亦可以弗畔矣夫。——《论语》",
+        "en": "The superior man, extensively studying culture and restraining himself with propriety, will not go astray. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "达观知命",
+        "en": "Take a broad view and understand your destiny"
+      },
+      "interpretation": {
+        "zh": "不知命，无以为君子；不知礼，无以立也。——《论语》",
+        "en": "Without understanding the will of Heaven, one cannot become a superior man; without knowing propriety, one cannot establish oneself. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "养浩然气",
+        "en": "Nurture the vast, resolute spirit within"
+      },
+      "interpretation": {
+        "zh": "我善养吾浩然之气。——《孟子》",
+        "en": "I am skillful in nourishing my vast, resolute spirit. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "推己及人",
+        "en": "Extend your own feelings to understand others"
+      },
+      "interpretation": {
+        "zh": "老吾老以及人之老，幼吾幼以及人之幼。——《孟子》",
+        "en": "Respect the aged in your own family and extend this to the aged in others' families; care for the young in your own family and extend this to the young in others' families. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "内省不疚",
+        "en": "Examine yourself and be free from guilt"
+      },
+      "interpretation": {
+        "zh": "内省不疚，夫何忧何惧？——《论语》",
+        "en": "If on self-examination one finds nothing to be ashamed of, what anxiety or fear can there be? — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "刚健有为",
+        "en": "Be vigorous and resolute in action"
+      },
+      "interpretation": {
+        "zh": "天行健，君子以自强不息。——《易经》",
+        "en": "The movement of Heaven is full of power; the superior man makes himself strong and untiring. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "厚德载物",
+        "en": "Let great virtue carry all things"
+      },
+      "interpretation": {
+        "zh": "地势坤，君子以厚德载物。——《易经》",
+        "en": "The earth in its devotion carries all things; the superior man carries the world with his generous virtue. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "居安思危",
+        "en": "In peace, prepare for danger"
+      },
+      "interpretation": {
+        "zh": "君子安而不忘危，存而不忘亡。——《易经》",
+        "en": "The superior man in times of safety does not forget danger; in times of existence does not forget destruction. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "涵养本心",
+        "en": "Preserve and nourish your fundamental goodness"
+      },
+      "interpretation": {
+        "zh": "学问之道无他，求其放心而已矣。——《孟子》",
+        "en": "The Way of learning is nothing other than seeking the lost heart. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "循序渐进",
+        "en": "Advance step by step in proper order"
+      },
+      "interpretation": {
+        "zh": "欲速则不达，见小利则大事不成。——《论语》",
+        "en": "Desire for speed does not achieve the goal; pursuit of small advantages prevents great accomplishments. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "恭宽信敏惠",
+        "en": "Practice respect, tolerance, trust, diligence, and generosity"
+      },
+      "interpretation": {
+        "zh": "恭、宽、信、敏、惠。恭则不侮，宽则得众，信则人任焉，敏则有功，惠则足以使人。——《论语》",
+        "en": "Respectfulness, tolerance, trustworthiness, diligence, and generosity. He who is respectful will not be insulted; tolerant wins the multitude; trustworthy is entrusted with responsibility; diligent achieves results; generous can employ others. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "德不孤，必有邻",
+        "en": "Virtue does not stand alone; it is sure to attract neighbors"
+      },
+      "interpretation": {
+        "zh": "德不孤，必有邻。——《论语》",
+        "en": "Virtue does not stand alone; it is bound to have neighbors. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "穷理尽性",
+        "en": "Exhaust principle and fulfill your nature"
+      },
+      "interpretation": {
+        "zh": "穷理尽性以至于命。——《易经》",
+        "en": "Exhaust principle and fully develop your nature so as to reach the Mandate of Heaven. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "正己化人",
+        "en": "Rectify yourself to transform others"
+      },
+      "interpretation": {
+        "zh": "其身正，不令而行；其身不正，虽令不从。——《论语》",
+        "en": "When the ruler is personally upright, all goes well without orders; when he is not personally upright, orders will not be obeyed. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "存心养性",
+        "en": "Preserve your heart and nourish your nature"
+      },
+      "interpretation": {
+        "zh": "存其心，养其性，所以事天也。——《孟子》",
+        "en": "Preserve your heart and nourish your nature — this is the way to serve Heaven. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "克己复礼",
+        "en": "Restrain yourself and return to propriety"
+      },
+      "interpretation": {
+        "zh": "克己复礼为仁。一日克己复礼，天下归仁焉。——《论语》",
+        "en": "To restrain oneself and return to propriety is benevolence. If for one day one restrains oneself and returns to propriety, all under Heaven will attribute benevolence to him. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "敏而好学",
+        "en": "Be quick in understanding and eager to learn"
+      },
+      "interpretation": {
+        "zh": "敏而好学，不耻下问。——《论语》",
+        "en": "He was quick and eager to learn, and not ashamed to ask those beneath him. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "尊德乐义",
+        "en": "Honor virtue and delight in righteousness"
+      },
+      "interpretation": {
+        "zh": "尊德乐义，则可以嚣嚣矣。——《孟子》",
+        "en": "Honor virtue and delight in righteousness, and you may be content and at ease. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "明辨笃行",
+        "en": "Discern clearly and practice earnestly"
+      },
+      "interpretation": {
+        "zh": "博学之，审问之，慎思之，明辨之，笃行之。——《中庸》",
+        "en": "Learn broadly, inquire carefully, reflect thoroughly, discern clearly, and practice earnestly. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "顺天应人",
+        "en": "Comply with Heaven and respond to the people"
+      },
+      "interpretation": {
+        "zh": "顺乎天而应乎人。——《易经》",
+        "en": "In accordance with Heaven and responsive to the people. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "尚志立道",
+        "en": "Set your will on high ideals and establish the Way"
+      },
+      "interpretation": {
+        "zh": "士尚志。曰仁义而已矣。——《孟子》",
+        "en": "The scholar sets his will on high ideals — simply benevolence and righteousness. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "怀德怀刑",
+        "en": "Cherish virtue and be mindful of consequences"
+      },
+      "interpretation": {
+        "zh": "君子怀德，小人怀土；君子怀刑，小人怀惠。——《论语》",
+        "en": "The superior man cherishes virtue; the inferior man cherishes his comfort. The superior man considers justice; the inferior man considers favors. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "穷则独善",
+        "en": "In obscurity, cultivate your own virtue"
+      },
+      "interpretation": {
+        "zh": "穷则独善其身，达则兼善天下。——《孟子》",
+        "en": "In obscurity, the scholar cultivates his own virtue; in success, he brings benefit to the whole world. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "知之为知",
+        "en": "Acknowledge what you know and what you do not"
+      },
+      "interpretation": {
+        "zh": "知之为知之，不知为不知，是知也。——《论语》",
+        "en": "When you know a thing, to recognize that you know it; when you do not know a thing, to recognize that you do not know it — this is knowledge. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "当仁不让",
+        "en": "When it comes to benevolence, do not yield"
+      },
+      "interpretation": {
+        "zh": "当仁，不让于师。——《论语》",
+        "en": "When it comes to benevolence, one should not even yield to one's teacher. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "思无邪",
+        "en": "Let your thoughts be without deceit"
+      },
+      "interpretation": {
+        "zh": "诗三百，一言以蔽之，曰：思无邪。——《论语》",
+        "en": "The three hundred poems can be covered in one phrase: 'Let your thoughts be free of depravity.' — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "居仁由义",
+        "en": "Dwell in benevolence and walk in righteousness"
+      },
+      "interpretation": {
+        "zh": "居恶在？仁是也。路恶在？义是也。——《孟子》",
+        "en": "Where should one dwell? In benevolence. Which path should one walk? The path of righteousness. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "安而行之",
+        "en": "Practice virtue with a settled and peaceful heart"
+      },
+      "interpretation": {
+        "zh": "或生而知之，或学而知之，或困而知之，及其知之一也。——《中庸》",
+        "en": "Some are born knowing it, some learn it, some come to know it through hardship — but when they know it, it is one and the same. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "文质彬彬",
+        "en": "Balance refinement with sincerity"
+      },
+      "interpretation": {
+        "zh": "质胜文则野，文胜质则史。文质彬彬，然后君子。——《论语》",
+        "en": "When substance exceeds refinement, the result is rusticity; when refinement exceeds substance, the result is pedantry. Only when substance and refinement are balanced does one become a superior man. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "先难后获",
+        "en": "Endure hardship first, harvest later"
+      },
+      "interpretation": {
+        "zh": "仁者先难而后获，可谓仁矣。——《论语》",
+        "en": "The benevolent person first undertakes what is difficult and only afterward claims reward — this may be called benevolence. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "敬以直内",
+        "en": "With reverence, rectify your inner self"
+      },
+      "interpretation": {
+        "zh": "敬以直内，义以方外。——《易经》",
+        "en": "With reverence rectify the inner self; with righteousness regulate the outer conduct. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "日新其德",
+        "en": "Renew your virtue day by day"
+      },
+      "interpretation": {
+        "zh": "苟日新，日日新，又日新。——《大学》",
+        "en": "If you can improve yourself in a day, do so each day, forever building on improvement. — The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "慎终追远",
+        "en": "Be careful of the end and mindful of the distant past"
+      },
+      "interpretation": {
+        "zh": "慎终追远，民德归厚矣。——《论语》",
+        "en": "Let there be a careful attention to perform the funeral rites to parents, and let them be followed when long gone with the ceremonies of sacrifice — then the virtue of the people will resume its proper excellence. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "格物致知",
+        "en": "Investigate things to extend knowledge"
+      },
+      "interpretation": {
+        "zh": "致知在格物，物格而后知至。——《大学》",
+        "en": "The extension of knowledge lies in the investigation of things. When things are investigated, knowledge is extended. — The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "乐以忘忧",
+        "en": "Find joy and forget your sorrows"
+      },
+      "interpretation": {
+        "zh": "发愤忘食，乐以忘忧，不知老之将至云尔。——《论语》",
+        "en": "I have been so absorbed in learning that I forget to eat, so joyful that I forget my sorrows, unaware that old age is approaching. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "思患预防",
+        "en": "Anticipate troubles and prepare for them"
+      },
+      "interpretation": {
+        "zh": "君子思患而豫防之。——《易经》",
+        "en": "The superior man anticipates troubles and takes precautions against them. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "志于道，据于德",
+        "en": "Set your will on the Way and take your stand in virtue"
+      },
+      "interpretation": {
+        "zh": "志于道，据于德，依于仁，游于艺。——《论语》",
+        "en": "Set your will on the Way, take your stand in virtue, rely on benevolence, and find your recreation in the arts. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "善与人同",
+        "en": "Share your goodness with others"
+      },
+      "interpretation": {
+        "zh": "善与人同，舍己从人，乐取于人以为善。——《孟子》",
+        "en": "Share goodness with others, forsake self to follow others, and gladly adopt what is good from others. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "言而有信",
+        "en": "Speak with sincerity and keep your word"
+      },
+      "interpretation": {
+        "zh": "与朋友交，言而有信。——《论语》",
+        "en": "In dealings with friends, let your words be trustworthy. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "善养本心",
+        "en": "Nourish well the goodness of your heart"
+      },
+      "interpretation": {
+        "zh": "无恻隐之心，非人也；无羞恶之心，非人也。——《孟子》",
+        "en": "Without a sense of compassion, one is not human; without a sense of shame, one is not human. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "不怨天，不尤人",
+        "en": "Do not blame Heaven or others"
+      },
+      "interpretation": {
+        "zh": "不怨天，不尤人。下学而上达。——《论语》",
+        "en": "I do not blame Heaven, nor do I blame others. I study what is below and attain understanding of what is above. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "诚意致知",
+        "en": "Make your will sincere and extend your understanding"
+      },
+      "interpretation": {
+        "zh": "所谓诚其意者，毋自欺也。——《大学》",
+        "en": "What is meant by 'making the thoughts sincere' is to allow no self-deception. — The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "宽以待人",
+        "en": "Be generous in dealing with others"
+      },
+      "interpretation": {
+        "zh": "躬自厚而薄责于人，则远怨矣。——《论语》",
+        "en": "Demand much from yourself and little from others, and you will keep resentment at a distance. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "修己以敬",
+        "en": "Cultivate yourself with reverence"
+      },
+      "interpretation": {
+        "zh": "修己以敬。修己以安人。修己以安百姓。——《论语》",
+        "en": "Cultivate yourself with reverence. Cultivate yourself to bring comfort to others. Cultivate yourself to bring peace to all the people. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "知人者智",
+        "en": "To understand others is wisdom"
+      },
+      "interpretation": {
+        "zh": "不患人之不己知，患不知人也。——《论语》",
+        "en": "Do not worry that others do not know you; worry that you do not know others. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "守经达权",
+        "en": "Uphold principles while adapting to circumstances"
+      },
+      "interpretation": {
+        "zh": "可与共学，未可与适道；可与适道，未可与立；可与立，未可与权。——《论语》",
+        "en": "Some may study with you but not share the same Way; some may share the Way but not stand firm with you; some may stand firm but not exercise discretion with you. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "仁者不忧",
+        "en": "The benevolent have no anxieties"
+      },
+      "interpretation": {
+        "zh": "知者不惑，仁者不忧，勇者不惧。——《论语》",
+        "en": "The wise are free from perplexity; the benevolent are free from anxiety; the courageous are free from fear. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "正心诚意",
+        "en": "Rectify your mind and make your will sincere"
+      },
+      "interpretation": {
+        "zh": "心正而后身修，身修而后家齐。——《大学》",
+        "en": "When the mind is rectified, the self is cultivated. When the self is cultivated, the family is regulated. — The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "以直报怨",
+        "en": "Respond to resentment with uprightness"
+      },
+      "interpretation": {
+        "zh": "以直报怨，以德报德。——《论语》",
+        "en": "Recompense injury with justice, and recompense kindness with kindness. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "立己达人",
+        "en": "Establish yourself and help others establish themselves"
+      },
+      "interpretation": {
+        "zh": "己欲立而立人，己欲达而达人。——《论语》",
+        "en": "Wishing to establish oneself, one helps others to establish themselves; wishing to succeed, one helps others to succeed. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "充实之谓美",
+        "en": "To be fully filled with goodness is beauty"
+      },
+      "interpretation": {
+        "zh": "可欲之谓善，有诸己之谓信，充实之谓美。——《孟子》",
+        "en": "What is desirable is called good; to have it in oneself is called truth; to be fully filled with it is called beauty. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "察言观色",
+        "en": "Observe words and expressions with care"
+      },
+      "interpretation": {
+        "zh": "察言而观色，虑以下人。——《论语》",
+        "en": "Observe others' words and expressions, and be careful to defer to them. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "善建不拔",
+        "en": "What is well established cannot be uprooted"
+      },
+      "interpretation": {
+        "zh": "善建者不拔，善抱者不脱。——《大学》引古语",
+        "en": "What is well established cannot be pulled up; what is firmly embraced cannot slip away. — Ancient saying cited in The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "素位而行",
+        "en": "Act according to your present station"
+      },
+      "interpretation": {
+        "zh": "君子素其位而行，不愿乎其外。——《中庸》",
+        "en": "The superior man does what is proper to the station in which he is; he does not desire to go beyond this. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "涵养须用敬",
+        "en": "Cultivation requires reverence"
+      },
+      "interpretation": {
+        "zh": "居处恭，执事敬，与人忠。——《论语》",
+        "en": "In daily life be respectful, in affairs be diligent, in dealings with others be loyal. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "量力而行",
+        "en": "Act according to your capacity"
+      },
+      "interpretation": {
+        "zh": "力不足者，中道而废。今女画。——《论语》",
+        "en": "Those whose strength gives out collapse midway. But you — you draw the line before you even begin. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "以文会友",
+        "en": "Gather friends through culture and learning"
+      },
+      "interpretation": {
+        "zh": "君子以文会友，以友辅仁。——《论语》",
+        "en": "The superior man uses culture to gather friends, and through friendship enhances benevolence. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "守死善道",
+        "en": "Guard the good Way even unto death"
+      },
+      "interpretation": {
+        "zh": "笃信好学，守死善道。——《论语》",
+        "en": "Sincerely believe in and love the Way; guard the good Way even unto death. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "仁者如射",
+        "en": "The benevolent are like archers"
+      },
+      "interpretation": {
+        "zh": "仁者如射，射者正己而后发。——《孟子》",
+        "en": "The benevolent person is like an archer: the archer rectifies himself before releasing the arrow. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "进德修业",
+        "en": "Advance in virtue and cultivate your endeavors"
+      },
+      "interpretation": {
+        "zh": "君子进德修业。忠信，所以进德也。——《易经》",
+        "en": "The superior man advances in virtue and cultivates his endeavors. Loyalty and faithfulness advance virtue. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "居敬行简",
+        "en": "Be reverent in mind but simple in administration"
+      },
+      "interpretation": {
+        "zh": "居敬而行简，以临其民，不亦可乎？——《论语》",
+        "en": "To be reverent in mind and simple in administration in governing the people — is this not acceptable? — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "知者利仁",
+        "en": "The wise find benefit in benevolence"
+      },
+      "interpretation": {
+        "zh": "仁者安仁，知者利仁。——《论语》",
+        "en": "The benevolent find peace in benevolence; the wise find benefit in benevolence. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "万物并育",
+        "en": "All things grow together without harm"
+      },
+      "interpretation": {
+        "zh": "万物并育而不相害，道并行而不相悖。——《中庸》",
+        "en": "All things are nourished together without injuring one another; all paths run parallel without interfering with one another. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "隐恶扬善",
+        "en": "Conceal faults and praise goodness"
+      },
+      "interpretation": {
+        "zh": "舜好问而好察迩言，隐恶而扬善。——《中庸》",
+        "en": "Shun loved to ask questions and examine everyday words. He concealed what was evil and displayed what was good. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "民为邦本",
+        "en": "The people are the foundation of the state"
+      },
+      "interpretation": {
+        "zh": "民为贵，社稷次之，君为轻。——《孟子》",
+        "en": "The people are the most important; the altars of the state come next; the ruler is the least important. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "大德不逾",
+        "en": "In great virtues, do not overstep the bounds"
+      },
+      "interpretation": {
+        "zh": "大德不逾闲，小德出入可也。——《论语》",
+        "en": "In great matters, do not overstep the bounds; in small matters, some flexibility is acceptable. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "教人以善",
+        "en": "Teach others what is good"
+      },
+      "interpretation": {
+        "zh": "善政不如善教之得民也。善政民畏之，善教民爱之。——《孟子》",
+        "en": "Good government is not equal to good education in winning the people. Good government makes the people fear it; good education makes them love it. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "道不远人",
+        "en": "The Way is not far from humanity"
+      },
+      "interpretation": {
+        "zh": "道不远人。人之为道而远人，不可以为道。——《中庸》",
+        "en": "The Way is not far from humanity. If one seeks the Way and it is far from humanity, it cannot be the Way. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "言忠信行笃敬",
+        "en": "Speak with loyalty and faith; act with sincerity and reverence"
+      },
+      "interpretation": {
+        "zh": "言忠信，行笃敬，虽蛮貊之邦，行矣。——《论语》",
+        "en": "If your words are loyal and faithful, and your conduct sincere and reverent, even in the lands of barbarians you will go forward. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "舍生取义",
+        "en": "Sacrifice life for righteousness when necessary"
+      },
+      "interpretation": {
+        "zh": "生，亦我所欲也；义，亦我所欲也。二者不可得兼，舍生而取义者也。——《孟子》",
+        "en": "Life is what I desire; righteousness is also what I desire. When both cannot be obtained, I would sacrifice life for righteousness. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "君子不器",
+        "en": "The superior man is not a mere vessel"
+      },
+      "interpretation": {
+        "zh": "君子不器。——《论语》",
+        "en": "The superior man is not a mere implement, limited to one specific use. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "矜而不争",
+        "en": "Be dignified but not contentious"
+      },
+      "interpretation": {
+        "zh": "君子矜而不争，群而不党。——《论语》",
+        "en": "The superior man is dignified but not contentious; he associates with others but does not form cliques. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "善则称人",
+        "en": "Attribute good to others, errors to yourself"
+      },
+      "interpretation": {
+        "zh": "善则称人，过则称己。——《礼记》",
+        "en": "When there is good, attribute it to others; when there is error, attribute it to yourself. — The Book of Rites"
+      }
+    },
+    {
+      "answer": {
+        "zh": "极高明而道中庸",
+        "en": "Attain the highest excellence and follow the middle path"
+      },
+      "interpretation": {
+        "zh": "故君子尊德性而道问学，致广大而尽精微，极高明而道中庸。——《中庸》",
+        "en": "The superior man honors his moral nature and pursues learning, attains the broad and exhaustive in the subtle, reaches the highest brilliance and follows the middle path. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "成人之美",
+        "en": "Help others achieve their goodness"
+      },
+      "interpretation": {
+        "zh": "君子成人之美，不成人之恶。小人反是。——《论语》",
+        "en": "The superior man helps others fulfill what is good in them; he does not help them in what is evil. The inferior man does the opposite. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "学以致道",
+        "en": "Study to attain the Way"
+      },
+      "interpretation": {
+        "zh": "士志于道，而耻恶衣恶食者，未足与议也。——《论语》",
+        "en": "A scholar whose mind is set on the Way, but who is ashamed of poor clothing and poor food, is not worth conversing with. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "天道酬勤",
+        "en": "The Way of Heaven rewards diligence"
+      },
+      "interpretation": {
+        "zh": "天道亏盈而益谦，地道变盈而流谦。——《易经》",
+        "en": "The Way of Heaven diminishes the full and benefits the humble; the Way of Earth alters the full and flows toward the humble. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "慎始敬终",
+        "en": "Be careful at the beginning and reverent to the end"
+      },
+      "interpretation": {
+        "zh": "慎始而敬终，终以不困。——《左传》",
+        "en": "Be careful at the beginning and reverent to the end, and in the end you will not be in difficulty. — Zuo Zhuan"
+      }
+    },
+    {
+      "answer": {
+        "zh": "仁至义尽",
+        "en": "Fulfill benevolence and righteousness to the utmost"
+      },
+      "interpretation": {
+        "zh": "仁至义尽，可以无悔。——《礼记》",
+        "en": "When benevolence is fully realized and righteousness is exhausted, there can be no regret. — The Book of Rites"
+      }
+    },
+    {
+      "answer": {
+        "zh": "恭而有礼",
+        "en": "Be respectful yet governed by propriety"
+      },
+      "interpretation": {
+        "zh": "恭而无礼则劳，慎而无礼则葸。——《论语》",
+        "en": "Respectfulness without propriety leads to exhaustion; caution without propriety leads to timidity. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "志士仁人",
+        "en": "Be a person of purpose and benevolence"
+      },
+      "interpretation": {
+        "zh": "志士仁人，无求生以害仁，有杀身以成仁。——《论语》",
+        "en": "The determined scholar and the person of benevolence never seek to preserve their lives at the expense of benevolence; they would rather sacrifice their lives to achieve benevolence. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "因材施教",
+        "en": "Teach according to each person's aptitude"
+      },
+      "interpretation": {
+        "zh": "求也退，故进之；由也兼人，故退之。——《论语》",
+        "en": "Qiu is hesitant, so I urged him forward; You had twice the energy of others, so I held him back. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "刚柔相济",
+        "en": "Balance firmness with flexibility"
+      },
+      "interpretation": {
+        "zh": "一阴一阳之谓道。——《易经》",
+        "en": "The interaction of yin and yang is called the Way. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "正己守道",
+        "en": "Rectify yourself and uphold the Way"
+      },
+      "interpretation": {
+        "zh": "君子之守，修其身而天下平。——《孟子》",
+        "en": "The superior man's steadfastness is to cultivate his person so that the world may be at peace. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "敬事而信",
+        "en": "Be reverent in affairs and faithful in words"
+      },
+      "interpretation": {
+        "zh": "道千乘之国，敬事而信，节用而爱人，使民以时。——《论语》",
+        "en": "To govern a state of a thousand chariots, be reverent in affairs and faithful in words, economical in expenditure and loving toward the people, and employ them at the proper seasons. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "明德惟馨",
+        "en": "Only illustrious virtue is truly fragrant"
+      },
+      "interpretation": {
+        "zh": "大学之道，在明明德，在亲民，在止于至善。——《大学》",
+        "en": "The Way of the Great Learning lies in illustrating illustrious virtue, in loving the people, and in resting in the highest excellence. — The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "慎其所染",
+        "en": "Be cautious of what influences you"
+      },
+      "interpretation": {
+        "zh": "性相近也，习相远也。——《论语》",
+        "en": "By nature, people are alike; by practice, they grow far apart. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "礼让为国",
+        "en": "Govern the state with courtesy and deference"
+      },
+      "interpretation": {
+        "zh": "能以礼让为国乎？何有？不能以礼让为国，如礼何？——《论语》",
+        "en": "Can one govern a state with courtesy and deference? What difficulty is there? If one cannot govern with courtesy and deference, what can one do with the rules of propriety? — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "切磋琢磨",
+        "en": "Cut, file, carve, and polish yourself"
+      },
+      "interpretation": {
+        "zh": "如切如磋，如琢如磨。——《大学》引《诗经》",
+        "en": "As if cutting, as if filing, as if carving, as if polishing. — The Book of Songs, cited in The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "达则兼济",
+        "en": "In success, benefit the whole world"
+      },
+      "interpretation": {
+        "zh": "古之人，得志，泽加于民；不得志，修身见于世。——《孟子》",
+        "en": "The ancients, when successful, bestowed benefits on the people; when unsuccessful, cultivated their personal virtue and showed it to the world. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "不迁怒，不贰过",
+        "en": "Do not transfer anger nor repeat mistakes"
+      },
+      "interpretation": {
+        "zh": "有颜回者好学，不迁怒，不贰过。——《论语》",
+        "en": "There was Yan Hui who loved to learn — he did not transfer his anger to others, nor did he repeat a fault. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "温良恭俭",
+        "en": "Be gentle, kind, respectful, and frugal"
+      },
+      "interpretation": {
+        "zh": "夫子温、良、恭、俭、让以得之。——《论语》",
+        "en": "The Master obtained it by being gentle, kind, respectful, frugal, and deferential. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "立不易方",
+        "en": "Stand firm and do not change your direction"
+      },
+      "interpretation": {
+        "zh": "君子以立不易方。——《易经》",
+        "en": "The superior man stands firm and does not change his direction. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "求之于己",
+        "en": "Seek the answer within yourself"
+      },
+      "interpretation": {
+        "zh": "君子求诸己，小人求诸人。——《论语》",
+        "en": "The superior man demands it of himself; the inferior man demands it of others. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "安时处顺",
+        "en": "Be at peace with the times and follow the natural course"
+      },
+      "interpretation": {
+        "zh": "君子素其位而行，不愿乎其外。素富贵，行乎富贵。——《中庸》",
+        "en": "The superior man does what is proper to his station and does not desire to go beyond it. In a position of wealth and honor, he acts according to wealth and honor. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "德之流行",
+        "en": "Let virtue spread like a flowing stream"
+      },
+      "interpretation": {
+        "zh": "德之流行，速于置邮而传命。——《孟子》",
+        "en": "The spread of virtue is faster than the transmission of orders through relay stations. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "慎言其余",
+        "en": "Speak cautiously even when confident"
+      },
+      "interpretation": {
+        "zh": "多闻阙疑，慎言其余，则寡尤。——《论语》",
+        "en": "Hear much and set aside what is doubtful, speak cautiously about the rest — thus you will make few errors. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "谦谦君子",
+        "en": "Be a humble and modest superior person"
+      },
+      "interpretation": {
+        "zh": "谦谦君子，卑以自牧也。——《易经》",
+        "en": "The humble superior person practices self-discipline through modesty. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "用之则行",
+        "en": "When employed, act with full commitment"
+      },
+      "interpretation": {
+        "zh": "用之则行，舍之则藏，唯我与尔有是夫！——《论语》",
+        "en": "When called to office, act; when set aside, conceal your abilities — only you and I have attained to this! — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "仁心仁闻",
+        "en": "Have a benevolent heart and a reputation for goodness"
+      },
+      "interpretation": {
+        "zh": "有不忍人之心，斯有不忍人之政矣。——《孟子》",
+        "en": "With a heart that cannot bear to see others suffer, there follows governance that cannot bear to see others suffer. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "日省月修",
+        "en": "Examine yourself daily and cultivate monthly"
+      },
+      "interpretation": {
+        "zh": "吾日三省吾身：为人谋而不忠乎？与朋友交而不信乎？传不习乎？——《论语》",
+        "en": "Each day I examine myself in three ways: in planning for others, have I been disloyal? In dealings with friends, have I been untrustworthy? Have I not practiced what has been taught? — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "礼之用和",
+        "en": "The function of propriety is harmony"
+      },
+      "interpretation": {
+        "zh": "礼之用，和为贵。先王之道，斯为美。——《论语》",
+        "en": "In practicing propriety, harmony is the most valuable. The Way of the former kings — this is what makes it beautiful. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "善与人交",
+        "en": "Associate with others with genuine goodness"
+      },
+      "interpretation": {
+        "zh": "晏平仲善与人交，久而敬之。——《论语》",
+        "en": "Yan Pingzhong was excellent in his dealings with others — the longer the acquaintance, the more he respected them. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "善政得民",
+        "en": "Good governance wins the people's hearts"
+      },
+      "interpretation": {
+        "zh": "得道者多助，失道者寡助。——《孟子》",
+        "en": "One who has the Way has many allies; one who loses the Way has few allies. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "志不可夺",
+        "en": "Your will must not be taken from you"
+      },
+      "interpretation": {
+        "zh": "三军可夺帅也，匹夫不可夺志也。——《论语》",
+        "en": "The commander of the armies of a large state may be captured, but the will of an ordinary person cannot be taken away. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "知者动，仁者静",
+        "en": "The wise are active; the benevolent are tranquil"
+      },
+      "interpretation": {
+        "zh": "知者乐水，仁者乐山。知者动，仁者静。知者乐，仁者寿。——《论语》",
+        "en": "The wise find joy in water; the benevolent find joy in mountains. The wise are active; the benevolent are tranquil. The wise are joyful; the benevolent enjoy long life. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "远虑近忧",
+        "en": "Plan far ahead to avoid near troubles"
+      },
+      "interpretation": {
+        "zh": "人无远虑，必有近忧。——《论语》",
+        "en": "A person who does not think of the future will certainly have sorrows near at hand. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "事亲以孝",
+        "en": "Serve your parents with filial devotion"
+      },
+      "interpretation": {
+        "zh": "事父母几谏，见志不从，又敬不违，劳而不怨。——《论语》",
+        "en": "In serving your parents, remonstrate gently. If they do not follow your advice, remain respectful and do not disobey; toil without complaint. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "修德不倦",
+        "en": "Cultivate virtue without weariness"
+      },
+      "interpretation": {
+        "zh": "默而识之，学而不厌，诲人不倦。——《论语》",
+        "en": "To silently accumulate knowledge, to learn without satiation, to teach without weariness — these are my commitments. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "临事而惧",
+        "en": "Approach important matters with careful reverence"
+      },
+      "interpretation": {
+        "zh": "必也临事而惧，好谋而成者也。——《论语》",
+        "en": "He must be one who approaches important affairs with careful reverence and succeeds through good planning. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "居之以约",
+        "en": "Maintain yourself with simplicity and restraint"
+      },
+      "interpretation": {
+        "zh": "以约失之者鲜矣。——《论语》",
+        "en": "Those who err through self-restraint are few indeed. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "乐天知命",
+        "en": "Rejoice in Heaven's ways and know your destiny"
+      },
+      "interpretation": {
+        "zh": "乐天知命，故不忧。——《易经》",
+        "en": "Rejoicing in the ways of Heaven and knowing destiny — thus one is free from anxiety. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "知命知礼",
+        "en": "Understand destiny and observe propriety"
+      },
+      "interpretation": {
+        "zh": "恭敬节让，明理通达。——《礼记》",
+        "en": "Be respectful, restrained, and deferential; understand principles and be open and clear. — The Book of Rites"
+      }
+    },
+    {
+      "answer": {
+        "zh": "思不出位",
+        "en": "Let your thoughts not exceed your station"
+      },
+      "interpretation": {
+        "zh": "君子思不出其位。——《论语》引曾子言",
+        "en": "The superior man does not let his thoughts go beyond his station. — The Analects (citing Zengzi)"
+      }
+    },
+    {
+      "answer": {
+        "zh": "言必信，行必果",
+        "en": "Words must be trustworthy; actions must be resolute"
+      },
+      "interpretation": {
+        "zh": "言必信，行必果，硁硁然小人哉！抑亦可以为次矣。——《论语》",
+        "en": "One whose words are trustworthy and actions resolute — though perhaps a narrow-minded person — may still be considered a second-order worthy. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "学如不及",
+        "en": "Learn as though you could never catch up"
+      },
+      "interpretation": {
+        "zh": "学如不及，犹恐失之。——《论语》",
+        "en": "Learn as if you were following something you could never catch up to, and yet were afraid of losing. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "善假于物",
+        "en": "Skillfully make use of resources around you"
+      },
+      "interpretation": {
+        "zh": "君子性非异也，善假于物也。——《荀子》",
+        "en": "The superior man's nature is not different from others — he is simply skillful in making use of external things. — Xunzi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "和为贵也",
+        "en": "Above all, value harmony"
+      },
+      "interpretation": {
+        "zh": "上下交而其志同也。——《易经》",
+        "en": "When those above and those below interact, their wills become one. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "过而能改",
+        "en": "Recognize errors and correct them"
+      },
+      "interpretation": {
+        "zh": "君子之过也，如日月之食焉：过也，人皆见之；更也，人皆仰之。——《论语》",
+        "en": "The errors of the superior man are like eclipses of the sun and moon: when he errs, all people see it; when he corrects it, all people look up to him. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "无欲则刚",
+        "en": "Without selfish desire, one becomes truly resolute"
+      },
+      "interpretation": {
+        "zh": "枨也欲，焉得刚？——《论语》",
+        "en": "Cheng is full of desires — how can he be firm and resolute? — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "信近于义",
+        "en": "Let your promises align with righteousness"
+      },
+      "interpretation": {
+        "zh": "信近于义，言可复也。恭近于礼，远耻辱也。——《论语》",
+        "en": "When promises are in accord with righteousness, they can be fulfilled. When respect is in accord with propriety, one avoids shame and insult. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "慎其所为",
+        "en": "Be careful in all that you do"
+      },
+      "interpretation": {
+        "zh": "君子动而世为天下道，行而世为天下法。——《中庸》",
+        "en": "The superior man's actions become a model for the world; his conduct becomes a standard for all generations. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "以义为上",
+        "en": "Give priority to righteousness above all"
+      },
+      "interpretation": {
+        "zh": "义，人之正路也。——《孟子》",
+        "en": "Righteousness is the correct path for humanity. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "虚怀若谷",
+        "en": "Keep your heart as open as a valley"
+      },
+      "interpretation": {
+        "zh": "满招损，谦受益。——《尚书》",
+        "en": "Arrogance invites loss; humility brings benefit. — The Book of Documents"
+      }
+    },
+    {
+      "answer": {
+        "zh": "非礼勿视",
+        "en": "Do not look at what is contrary to propriety"
+      },
+      "interpretation": {
+        "zh": "非礼勿视，非礼勿听，非礼勿言，非礼勿动。——《论语》",
+        "en": "Do not look at what is contrary to propriety; do not listen to what is contrary to propriety; do not speak what is contrary to propriety; do not do what is contrary to propriety. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "格物明理",
+        "en": "Investigate things to illuminate principles"
+      },
+      "interpretation": {
+        "zh": "物格而后知至，知至而后意诚。——《大学》",
+        "en": "When things are investigated, knowledge is extended; when knowledge is extended, thoughts become sincere. — The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "容众爱仁",
+        "en": "Embrace all people and cherish benevolence"
+      },
+      "interpretation": {
+        "zh": "君子尊贤而容众，嘉善而矜不能。——《论语》",
+        "en": "The superior man honors the wise and embraces all people; he praises the good and has compassion for those who are lacking. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "以仁守位",
+        "en": "Hold your position through benevolence"
+      },
+      "interpretation": {
+        "zh": "不仁而得国者，有之矣；不仁而得天下者，未之有也。——《孟子》",
+        "en": "There have been those who obtained a state without benevolence; but never has anyone obtained the whole world without benevolence. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "行义达道",
+        "en": "Act with righteousness to fulfill the Way"
+      },
+      "interpretation": {
+        "zh": "义者，宜也，尊贤为大。——《中庸》",
+        "en": "Righteousness means appropriateness, and honoring the worthy is its greatest expression. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "时中君子",
+        "en": "Be the one who finds timeliness in the middle path"
+      },
+      "interpretation": {
+        "zh": "君子之中庸也，君子而时中。——《中庸》",
+        "en": "The superior man's practice of the Doctrine of the Mean lies in being timely and centered. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "博施济众",
+        "en": "Give broadly and relieve the multitude"
+      },
+      "interpretation": {
+        "zh": "博施于民而能济众，何如？可谓仁乎？——《论语》",
+        "en": "One who gives broadly to the people and relieves the multitude — what do you say of him? Can he be called benevolent? — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "敬慎不败",
+        "en": "With reverence and caution, you will not fail"
+      },
+      "interpretation": {
+        "zh": "君子敬以直内，义以方外，敬义立而德不孤。——《易经》",
+        "en": "The superior man with reverence rectifies the inner self, with righteousness regulates the outer — when reverence and righteousness are established, virtue is never isolated. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "教民以礼",
+        "en": "Instruct the people through propriety"
+      },
+      "interpretation": {
+        "zh": "道之以德，齐之以礼，有耻且格。——《论语》",
+        "en": "Guide them by virtue and regulate them by propriety, and they will have a sense of shame and become good. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "持之以恒道",
+        "en": "Persist unwaveringly on the Way"
+      },
+      "interpretation": {
+        "zh": "虽天下之可动，而不移其心。——《礼记》",
+        "en": "Even if everything in the world could be moved, the superior man's heart would not waver. — The Book of Rites"
+      }
+    },
+    {
+      "answer": {
+        "zh": "约之以礼",
+        "en": "Restrain yourself with propriety"
+      },
+      "interpretation": {
+        "zh": "君子义以为质，礼以行之，孙以出之，信以成之。——《论语》",
+        "en": "The superior man takes righteousness as his substance, practices it with propriety, expresses it with humility, and completes it with faithfulness. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "见得思义",
+        "en": "When you see gain, think of righteousness"
+      },
+      "interpretation": {
+        "zh": "见得思义，见危授命，久要不忘平生之言。——《论语》",
+        "en": "When seeing gain, think of righteousness; in the face of danger, be ready to give your life; in long-standing agreements, do not forget your original promises. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "致诚尽性",
+        "en": "Through utmost sincerity, fulfill your nature"
+      },
+      "interpretation": {
+        "zh": "唯天下至诚，为能尽其性。——《中庸》",
+        "en": "Only the one who possesses the utmost sincerity under Heaven can fully realize their nature. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "正位凝命",
+        "en": "Take your proper station and consolidate your purpose"
+      },
+      "interpretation": {
+        "zh": "君子以正位凝命。——《易经》",
+        "en": "The superior man takes his proper station and consolidates his mandate. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "思而后行",
+        "en": "Think carefully before you act"
+      },
+      "interpretation": {
+        "zh": "再思可矣。——《论语》",
+        "en": "Thinking twice is sufficient. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "文行忠信",
+        "en": "Study culture, conduct, loyalty, and trustworthiness"
+      },
+      "interpretation": {
+        "zh": "子以四教：文、行、忠、信。——《论语》",
+        "en": "The Master taught four things: culture, conduct, loyalty, and trustworthiness. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "存诚居敬",
+        "en": "Preserve sincerity and dwell in reverence"
+      },
+      "interpretation": {
+        "zh": "诚者，天之道也；思诚者，人之道也。——《孟子》",
+        "en": "Sincerity is the Way of Heaven; to think sincerely is the Way of humanity. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "化民成俗",
+        "en": "Transform the people and establish good customs"
+      },
+      "interpretation": {
+        "zh": "君子如欲化民成俗，其必由学乎！——《礼记》",
+        "en": "If the superior man wishes to transform the people and establish good customs, he must surely begin with education! — The Book of Rites"
+      }
+    },
+    {
+      "answer": {
+        "zh": "善不积不足成名",
+        "en": "Goodness must accumulate to become noteworthy"
+      },
+      "interpretation": {
+        "zh": "善不积，不足以成名；恶不积，不足以灭身。——《易经》",
+        "en": "Without accumulating goodness, one cannot achieve a renowned name; without accumulating evil, one cannot bring about destruction. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "务本道生",
+        "en": "Attend to the root and the Way will grow"
+      },
+      "interpretation": {
+        "zh": "君子务本，本立而道生。孝弟也者，其为仁之本与！——《论语》",
+        "en": "The superior man attends to the root; when the root is established, the Way grows. Filial piety and fraternal duty are the root of benevolence! — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "顺理而行",
+        "en": "Follow principle in all your actions"
+      },
+      "interpretation": {
+        "zh": "顺理而动，必无败事。——《易经》",
+        "en": "When one acts in accordance with principle, there will surely be no failure. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "不以规矩，不成方圆",
+        "en": "Without standards, nothing proper can be made"
+      },
+      "interpretation": {
+        "zh": "不以规矩，不能成方圆。——《孟子》",
+        "en": "Without the compass and square, one cannot form circles and squares. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "食无求饱",
+        "en": "Do not seek fullness in food or comfort in dwelling"
+      },
+      "interpretation": {
+        "zh": "君子食无求饱，居无求安，敏于事而慎于言。——《论语》",
+        "en": "The superior man does not seek fullness in food or ease in dwelling; he is diligent in affairs and cautious in speech. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "独善守道",
+        "en": "In solitude, cultivate virtue and guard the Way"
+      },
+      "interpretation": {
+        "zh": "古之人得志，泽加于民；不得志，修身见于世。穷则独善其身，达则兼善天下。——《孟子》",
+        "en": "The ancients, when successful, bestowed benefits on the people; when unsuccessful, cultivated themselves and showed it to the world. In obscurity they perfected themselves; in success they benefited all under Heaven. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "明辨是非",
+        "en": "Clearly distinguish right from wrong"
+      },
+      "interpretation": {
+        "zh": "是非之心，智之端也。——《孟子》",
+        "en": "The sense of right and wrong is the beginning of wisdom. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "仁者爱人",
+        "en": "The benevolent person loves others"
+      },
+      "interpretation": {
+        "zh": "仁者爱人，有礼者敬人。爱人者，人恒爱之；敬人者，人恒敬之。——《孟子》",
+        "en": "The benevolent love others; the courteous respect others. Those who love others are always loved; those who respect others are always respected. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "尚贤使能",
+        "en": "Honor the wise and employ the capable"
+      },
+      "interpretation": {
+        "zh": "尊贤使能，俊杰在位，则天下之士皆悦而愿立于其朝矣。——《孟子》",
+        "en": "Honor the wise and employ the capable, placing outstanding people in positions of authority, and the scholars of the world will be pleased and wish to serve at court. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "守柔曰强",
+        "en": "True strength lies in preserving gentleness"
+      },
+      "interpretation": {
+        "zh": "宽柔以教，不报无道，南方之强也，君子居之。——《中庸》",
+        "en": "To be broad-minded and gentle in teaching, not to repay hostility with hostility — this is the strength of the south, where the superior man dwells. — The Doctrine of the Mean"
+      }
+    },
+    {
+      "answer": {
+        "zh": "知止有定",
+        "en": "Know when to stop, and your purpose will be firm"
+      },
+      "interpretation": {
+        "zh": "知止而后有定，定而后能静，静而后能安。——《大学》",
+        "en": "Knowing where to stop, one becomes resolute; being resolute, one becomes calm; being calm, one becomes at peace. — The Great Learning"
+      }
+    },
+    {
+      "answer": {
+        "zh": "内仁外义",
+        "en": "Nurture benevolence within and practice righteousness without"
+      },
+      "interpretation": {
+        "zh": "仁，内也，非外也；义，外也，非内也。——《孟子》",
+        "en": "Benevolence is internal, not external; righteousness is external, not internal. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "怀德敬信",
+        "en": "Cherish virtue and hold trust in reverence"
+      },
+      "interpretation": {
+        "zh": "君子以虚受人，含弘光大。——《易经》",
+        "en": "The superior man receives others with an open heart, containing and glorifying the great. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "动容貌，正颜色",
+        "en": "Compose your bearing and correct your expression"
+      },
+      "interpretation": {
+        "zh": "动容貌，斯远暴慢矣；正颜色，斯近信矣。——《论语》",
+        "en": "If one composes one's bearing, one will avoid rudeness and arrogance; if one corrects one's expression, one will approach trustworthiness. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "化性起伪",
+        "en": "Transform your nature through conscious effort"
+      },
+      "interpretation": {
+        "zh": "人之性恶，其善者伪也。——《荀子》",
+        "en": "Human nature is evil; its goodness is the result of conscious activity. — Xunzi"
+      }
+    },
+    {
+      "answer": {
+        "zh": "以能问于不能",
+        "en": "With ability, ask those who seem unable"
+      },
+      "interpretation": {
+        "zh": "以能问于不能，以多问于寡，有若无，实若虚。——《论语》",
+        "en": "Though possessing ability, ask those who seem unable; though having much knowledge, ask those who have little. Having, act as if without; being full, act as if empty. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "无适无莫",
+        "en": "Be free from bias and rigid preferences"
+      },
+      "interpretation": {
+        "zh": "君子之于天下也，无适也，无莫也，义之与比。——《论语》",
+        "en": "The superior man in dealing with the world is not invariably for or against anything — he follows what is right. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "恭敬撙节",
+        "en": "Be respectful and observe proper restraint"
+      },
+      "interpretation": {
+        "zh": "恭敬撙节，退让以明礼。——《礼记》",
+        "en": "Be respectful and restrained, yielding and deferential to illustrate propriety. — The Book of Rites"
+      }
+    },
+    {
+      "answer": {
+        "zh": "任重道远",
+        "en": "The burden is heavy and the road is long"
+      },
+      "interpretation": {
+        "zh": "士不可以不弘毅，任重而道远。仁以为己任，不亦重乎？死而后已，不亦远乎？——《论语》",
+        "en": "The scholar must be broad and resolute, for his burden is heavy and the road is long. Taking benevolence as his responsibility — is it not heavy? Only with death does it end — is the road not long? — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "有教无类",
+        "en": "In teaching, there should be no distinction of class"
+      },
+      "interpretation": {
+        "zh": "有教无类。——《论语》",
+        "en": "In education, there should be no distinction of classes. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "正谊不谋利",
+        "en": "Pursue righteousness, not personal gain"
+      },
+      "interpretation": {
+        "zh": "正其谊不谋其利，明其道不计其功。——《汉书》引董仲舒",
+        "en": "Rectify what is right without seeking profit; illuminate the Way without calculating success. — Dong Zhongshu, cited in The Book of Han"
+      }
+    },
+    {
+      "answer": {
+        "zh": "观过知仁",
+        "en": "Observe one's faults to understand their character"
+      },
+      "interpretation": {
+        "zh": "人之过也，各于其党。观过，斯知仁矣。——《论语》",
+        "en": "People's faults are each according to their type. By observing a person's faults, you can understand their character. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "善政不如善教",
+        "en": "Good teaching surpasses good governance"
+      },
+      "interpretation": {
+        "zh": "仁言不如仁声之入人深也，善政不如善教之得民也。——《孟子》",
+        "en": "Benevolent words do not enter people as deeply as a reputation for benevolence; good governance does not win the people as effectively as good teaching. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "君子三畏",
+        "en": "The superior man holds three things in awe"
+      },
+      "interpretation": {
+        "zh": "君子有三畏：畏天命，畏大人，畏圣人之言。——《论语》",
+        "en": "The superior man holds three things in awe: the Mandate of Heaven, great people, and the words of sages. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "慎德施惠",
+        "en": "Be careful in virtue and generous in kindness"
+      },
+      "interpretation": {
+        "zh": "君子以裒多益寡，称物平施。——《易经》",
+        "en": "The superior man reduces what is excessive and increases what is deficient, weighing things and distributing evenly. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "忧道不忧贫",
+        "en": "Worry about the Way, not about poverty"
+      },
+      "interpretation": {
+        "zh": "君子谋道不谋食，忧道不忧贫。——《论语》",
+        "en": "The superior man seeks the Way, not sustenance. He worries about the Way, not about poverty. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "迁善改过",
+        "en": "Move toward goodness and correct your faults"
+      },
+      "interpretation": {
+        "zh": "君子以见善则迁，有过则改。——《易经》",
+        "en": "The superior man, seeing goodness, moves toward it; having faults, he corrects them. — I Ching"
+      }
+    },
+    {
+      "answer": {
+        "zh": "恭敬忠信",
+        "en": "Reverence, respect, loyalty, and trustworthiness"
+      },
+      "interpretation": {
+        "zh": "主忠信，毋友不如己者，过则勿惮改。——《论语》",
+        "en": "Hold loyalty and trustworthiness as your main principles; do not befriend those who are not your equals in virtue; when you err, do not hesitate to correct it. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "直道而行",
+        "en": "Walk the straight path of uprightness"
+      },
+      "interpretation": {
+        "zh": "斯民也，三代之所以直道而行也。——《论语》",
+        "en": "These same people were the ones by whom the three dynasties walked the straight path. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "仁义而已",
+        "en": "It comes down to benevolence and righteousness"
+      },
+      "interpretation": {
+        "zh": "王何必曰利？亦有仁义而已矣。——《孟子》",
+        "en": "Why must Your Majesty speak of profit? There are only benevolence and righteousness. — Mencius"
+      }
+    },
+    {
+      "answer": {
+        "zh": "审问慎思",
+        "en": "Inquire carefully and reflect thoroughly"
+      },
+      "interpretation": {
+        "zh": "多闻，择其善者而从之；多见而识之，知之次也。——《论语》",
+        "en": "Hear much and select what is good and follow it; see much and remember it — this is the second kind of knowledge. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "敬慎威仪",
+        "en": "Maintain reverence in bearing and dignity"
+      },
+      "interpretation": {
+        "zh": "无不敬，仪不及物。——《礼记》",
+        "en": "There is nothing that should not be treated with reverence; let your demeanor not fall short of what is proper. — The Book of Rites"
+      }
+    },
+    {
+      "answer": {
+        "zh": "行先言后",
+        "en": "Act first, speak afterward"
+      },
+      "interpretation": {
+        "zh": "先行其言而后从之。——《论语》",
+        "en": "First act on what you intend to say, and then speak of it. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "君子坦荡",
+        "en": "The superior man is open and at ease"
+      },
+      "interpretation": {
+        "zh": "君子坦荡荡，小人长戚戚。——《论语》",
+        "en": "The superior man is broad and at ease; the inferior man is always anxious and worried. — The Analects"
+      }
+    },
+    {
+      "answer": {
+        "zh": "修齐治平",
+        "en": "Cultivate the self, regulate the family, govern the state, bring peace to all"
+      },
+      "interpretation": {
+        "zh": "身修而后家齐，家齐而后国治，国治而后天下平。——《大学》",
+        "en": "When the self is cultivated, the family is regulated; when the family is regulated, the state is governed; when the state is governed, the whole world is at peace. — The Great Learning"
+      }
+    }
+  ]
+}

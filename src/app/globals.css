@@ -1,0 +1,153 @@
+@import "tailwindcss";
+
+:root {
+  --buddhist-color: #d4a849;
+  --confucian-color: #8b4513;
+  --taoist-color: #2e8b57;
+  --metaphysical-color: #6a0dad;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+  background: #000;
+  color: #fff;
+  font-family: var(--font-noto-serif-sc), var(--font-noto-serif), serif;
+}
+
+/* Circular button glow animation */
+@keyframes pulseGlow {
+  0%,
+  100% {
+    box-shadow: 0 0 30px var(--glow-color, #d4a849),
+      0 0 60px var(--glow-color, #d4a849), 0 0 90px var(--glow-color, #d4a849);
+    transform: scale(1);
+  }
+  50% {
+    box-shadow: 0 0 40px var(--glow-color, #d4a849),
+      0 0 80px var(--glow-color, #d4a849),
+      0 0 120px var(--glow-color, #d4a849);
+    transform: scale(1.05);
+  }
+}
+
+.start-button {
+  animation: pulseGlow 3s ease-in-out infinite;
+}
+
+/* Category color cycling */
+@keyframes cycleColors {
+  0%,
+  24% {
+    --glow-color: #d4a849;
+  }
+  25%,
+  49% {
+    --glow-color: #8b4513;
+  }
+  50%,
+  74% {
+    --glow-color: #2e8b57;
+  }
+  75%,
+  99% {
+    --glow-color: #6a0dad;
+  }
+}
+
+/* Answer text animation */
+@keyframes revealAnswer {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+    writing-mode: vertical-rl;
+  }
+  40% {
+    opacity: 1;
+    transform: scale(1.2);
+    writing-mode: vertical-rl;
+  }
+  70% {
+    opacity: 1;
+    transform: scale(1.1);
+    writing-mode: horizontal-tb;
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+    writing-mode: horizontal-tb;
+  }
+}
+
+.answer-reveal {
+  animation: revealAnswer 0.6s ease-out forwards;
+}
+
+/* Shrink-out: answer content shrinks and fades */
+@keyframes shrinkOut {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+}
+
+.shrink-out {
+  animation: shrinkOut 0.5s ease-in forwards;
+}
+
+/* Zoom-in: start button scales up and fades in */
+@keyframes zoomIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.zoom-in {
+  animation: zoomIn 0.5s ease-out forwards;
+}
+
+/* Button drop to bottom animation */
+@keyframes dropToBottom {
+  0% {
+    top: 50%;
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    top: 90%;
+    opacity: 0.8;
+  }
+}
+
+/* Matrix fall with CSS transform */
+@keyframes matrixFall {
+  0% {
+    transform: translateY(-100vh);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(100vh);
+    opacity: 0;
+  }
+}
