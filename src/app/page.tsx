@@ -32,6 +32,11 @@ function Home() {
   const [isEntering, setIsEntering] = useState(false);
   const categoryCycleRef = useRef<NodeJS.Timeout | null>(null);
 
+  // Record visit (fire-and-forget)
+  useEffect(() => {
+    fetch("/api/visit", { method: "POST" }).catch(() => {});
+  }, []);
+
   // Load answers on mount
   useEffect(() => {
     let cancelled = false;
