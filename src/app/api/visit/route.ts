@@ -1,10 +1,12 @@
 import { NextRequest, NextResponse } from "next/server";
 import { recordVisit, getVisitorLogs } from "@/lib/visitor-log";
 
-// GET /api/visit — retrieve recent visitor logs
-export async function GET() {
-  const logs = getVisitorLogs();
-  return NextResponse.json({ total: logs.length, logs });
+// GET /api/visit?date=YYYY-MM-DD — retrieve visitor logs for a given date (defaults to today)
+export async function GET(req: NextRequest) {
+  const dateParam = req.nextUrl.searchParams.get("date"); // e.g. "2026-04-12"
+  const date = dateParam ? new Date(dateParam + "T00:00:00Z") : new Date();
+  const logs = await getVisitorLogs(date);
+  return NextResponse.json({ date: dateParam ?? "today", total: logs.length, logs });
 }
 
 // POST /api/visit — record a new visit
