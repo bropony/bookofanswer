@@ -129,6 +129,8 @@ function Home() {
       }}
       role="main"
     >
+      {/* SEO heading — visually hidden but accessible */}
+      <h1 className="sr-only">答案之书 — Book of Answers: 佛儒道玄学智慧神谕</h1>
       {/* Screen reader announcements for phase changes */}
       <div className="sr-only" aria-live="polite" aria-atomic="true">
         {phase === "loading" && "载入中 Loading..."}
