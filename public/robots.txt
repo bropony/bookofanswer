@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://key2life.vercel.app/sitemap.xml
+Sitemap: https://boa.mahanzhou.com/sitemap.xml

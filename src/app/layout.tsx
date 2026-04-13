@@ -16,7 +16,7 @@ const notoSerifSC = Noto_Serif_SC({
   display: "swap",
 });
 
-const SITE_URL = "https://key2life.vercel.app";
+const SITE_URL = "https://boa.mahanzhou.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
